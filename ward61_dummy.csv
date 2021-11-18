@@ -1,0 +1,736 @@
+osm_id,coll_date,accessroof,addrhousen,name,addrstreet,building,roofmateri,osmid,ward,building_cluster,region,total waste,dry waste,wet waste,hazardous waste
+202061691,01 October 2021,,,"Transit Camp, Behram Baug",,commercial,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,371,299,72,2
+202516362,01 October 2021,,,random_5,,yes,,1,Ward 61,GREEN PARK,GREEN PARK,243,205,38,41
+202516364,01 October 2021,,,Heera Panna,,commercial,,1,Ward 61,GREEN PARK,GREEN PARK,142,52,90,56
+202555836,01 October 2021,,,Park Paradise,,yes,,1,Ward 61,Behram  Baug 1,Behram  Baug,146,21,125,88
+202555854,01 October 2021,,,Park View,,yes,,1,Ward 61,Behram  Baug 1,Behram  Baug,11,11,0,27
+227895886,01 October 2021,,,random_4,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,144,114,30,11
+227895887,01 October 2021,,,Evershine Greens,,apartments,,1,Ward 61,BMC ROAD,BMC ROAD,317,32,285,97
+227895889,01 October 2021,,,random_2,,apartments,,1,Ward 61,JBCN SCHOOL LANE1,JBCN SCHOOL LANE,17,3,14,9
+227895891,01 October 2021,,,random_1,,residential,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,412,236,176,71
+227895892,01 October 2021,,,random_3,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,148,11,137,67
+227895894,01 October 2021,,,random_6,,residential,,1,Ward 61,JBCN SCHOOL LANE1,JBCN SCHOOL LANE,184,153,31,82
+227895895,01 October 2021,,,random_7,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,496,187,309,49
+227895896,01 October 2021,,,random_8,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,341,91,250,55
+227895898,01 October 2021,,,random_9,,residential,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,348,88,260,59
+227895899,01 October 2021,,,random_11,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,335,99,236,50
+227895902,01 October 2021,,,Evershine Greens,,apartments,,1,Ward 61,BMC ROAD,BMC ROAD,282,136,146,33
+227895903,01 October 2021,,,random_10,,residential,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,148,147,1,94
+227895904,01 October 2021,,,random_13,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,205,20,185,80
+227895905,01 October 2021,,,random_12,,residential,,1,Ward 61,BMC ROAD,BMC ROAD,225,35,190,66
+227895908,01 October 2021,,,random_14,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,392,37,355,11
+227895909,01 October 2021,,,random_15,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,445,36,409,89
+227895910,01 October 2021,,,random_16,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,373,89,284,79
+227895911,01 October 2021,,,random_17,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,358,338,20,99
+227895912,01 October 2021,,,random_18,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,120,57,63,32
+227895914,01 October 2021,,,random_19,Off New Link Road,yes,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,221,12,209,86
+227895915,01 October 2021,,,Raigad Military School,,school,,1,Ward 61,BMC ROAD,BMC ROAD,468,204,264,52
+227895916,01 October 2021,,,random_20,,residential,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,355,121,234,50
+227895917,01 October 2021,,,random_21,,residential,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,455,346,109,57
+228031928,01 October 2021,,Building no. 29,Samruddhi CHS,Oshiwara Link Road,residential,,1,Ward 61,Behram  Baug 1,Behram  Baug,141,98,43,84
+228031929,01 October 2021,,,Oshiwara Basera,,residential,,1,Ward 61,Behram  Baug 1,Behram  Baug,439,243,196,76
+228031930,01 October 2021,,,East Side Apartments,,apartments,,1,Ward 61,Behram  Baug 1,Behram  Baug,358,211,147,7
+228031933,01 October 2021,,,Anand Vihar,,residential,,1,Ward 61,Behram  Baug 1,Behram  Baug,274,141,133,53
+249860327,01 October 2021,,,Meera C.H.S.,"Link Road Extension, Oshiwara, Andheri West",residential,,1,Ward 61,MEGA MALL 1,MEGA MALL,17,14,3,78
+249860328,01 October 2021,,,random_22,,yes,,1,Ward 61,Techweb centre,ANAND NAGAR,5,4,1,93
+249860330,01 October 2021,,,random_23,,yes,,1,Ward 61,Techweb centre,ANAND NAGAR,61,12,49,40
+249860331,01 October 2021,,,random_24,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,28,5,23,49
+249860335,01 October 2021,,,random_25,,yes,,1,Ward 61,Behram  Baug 2,Behram  Baug,424,108,316,22
+249860339,01 October 2021,,,Sanskar,,apartments,,1,Ward 61, Evershine Green,ROSHAN NAGAR,405,37,368,86
+249860342,01 October 2021,,,random_26,,yes,,1,Ward 61, Evershine Green,ROSHAN NAGAR,292,175,117,74
+249860343,01 October 2021,,,Tarapore Towers,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,245,206,39,71
+249860344,01 October 2021,,,random_27,,yes,,1,Ward 61,MEGA MALL 1,MEGA MALL,115,73,42,83
+249860345,01 October 2021,,,random_28,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,458,133,325,90
+249860353,01 October 2021,,,random_29,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,93,12,81,91
+249860355,01 October 2021,,,random_30,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,231,98,133,64
+249860360,01 October 2021,,,random_31,,yes,,1,Ward 61,Behram  Baug 2,Behram  Baug,411,283,128,39
+249860365,01 October 2021,,,random_32,,apartments,,1,Ward 61, Evershine Green,ROSHAN NAGAR,117,19,98,52
+249860366,01 October 2021,,,random_33,,yes,,1,Ward 61,MEGA MALL 1,MEGA MALL,147,71,76,69
+249860369,01 October 2021,,,random_34,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,480,246,234,79
+249860374,01 October 2021,,,random_35,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,335,243,92,100
+249860375,01 October 2021,,,random_36,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,231,137,94,90
+249860377,01 October 2021,,,random_37,,yes,,1,Ward 61,Behram  Baug 1,Behram  Baug,88,71,17,67
+249860383,01 October 2021,,,random_38,,apartments,,1,Ward 61, Evershine Green,ROSHAN NAGAR,364,26,338,53
+249860384,01 October 2021,,,Sargam,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,126,22,104,77
+249860386,01 October 2021,,,random_39,,apartments,,1,Ward 61,MEGA MALL 1,MEGA MALL,304,270,34,73
+249860389,01 October 2021,,flat no. 404,Marigold Apartments,Off New Link Road,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,393,18,375,99
+249860393,01 October 2021,,,random_40,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,226,12,214,48
+249860394,01 October 2021,,,Link Way,,yes,,1,Ward 61,Behram  Baug 2,Behram  Baug,457,453,4,73
+249860396,01 October 2021,,,random_41,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,83,43,40,93
+249860398,01 October 2021,,,random_42,,apartments,,1,Ward 61,MEGA MALL 1,MEGA MALL,309,5,304,60
+249860399,01 October 2021,,,random_43,,yes,,1,Ward 61,MEGA MALL 1,MEGA MALL,245,208,37,39
+249860402,01 October 2021,,,random_44,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,188,83,105,52
+249860408,01 October 2021,,,random_45,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,25,6,19,61
+249860410,01 October 2021,,,random_46,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,92,92,0,98
+249860412,01 October 2021,,,random_47,,apartments,,1,Ward 61,MEGA MALL 1,MEGA MALL,306,190,116,48
+249860415,01 October 2021,,,random_48,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,22,16,6,71
+249860418,01 October 2021,,,random_49,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,347,307,40,30
+249860421,01 October 2021,,,random_50,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,490,335,155,12
+249860424,01 October 2021,,,random_51,,yes,,1,Ward 61,Behram  Baug 2,Behram  Baug,52,51,1,23
+249860425,01 October 2021,,,random_52,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,33,28,5,61
+249860428,01 October 2021,,,random_53,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,476,419,57,92
+249860429,01 October 2021,,,random_54,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,395,90,305,89
+249860432,01 October 2021,,,Utsav,,apartments,,1,Ward 61, Evershine Green,ROSHAN NAGAR,35,23,12,19
+249860433,01 October 2021,,,random_55,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,437,3,434,36
+249860434,01 October 2021,,701,Garden View - Dr Kaushal Shah's Residence,Off New Link Rd,yes,,1,Ward 61,Behram  Baug 1,Behram  Baug,454,350,104,51
+249860438,01 October 2021,,,Rajrani Malhotra Vidyalaya,,school,,1,Ward 61,Behram  Baug 2,Behram  Baug,79,7,72,57
+249860442,01 October 2021,,,random_56,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,264,222,42,60
+249860444,01 October 2021,,,random_57,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,12,1,11,4
+249860449,01 October 2021,,,Rajnigandha,,apartments,,1,Ward 61, Evershine Green,ROSHAN NAGAR,416,7,409,24
+249860451,01 October 2021,,,random_58,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,472,440,32,53
+249860456,01 October 2021,,,random_59,,yes,,1,Ward 61,Behram  Baug 2,Behram  Baug,435,328,107,83
+249860462,01 October 2021,,,random_60,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,54,3,51,99
+249860466,01 October 2021,,,Kaveri,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,446,129,317,57
+249860469,01 October 2021,,,random_61,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,0,0,0,92
+249860471,01 October 2021,,,random_62,,yes,,1,Ward 61,Techweb centre,ANAND NAGAR,61,59,2,74
+249860500,01 October 2021,,,Tarapore Towers,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,36,6,30,42
+249864713,01 October 2021,,,random_63,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,103,69,34,80
+249897526,01 October 2021,,,random_64,,yes,,1,Ward 61,TARAPORE,TARAPORE,77,25,52,19
+249897534,01 October 2021,,,random_65,,yes,,1,Ward 61,TARAPORE,TARAPORE,336,327,9,56
+249897536,01 October 2021,,,random_66,,yes,,1,Ward 61,GREEN PARK,GREEN PARK,293,227,66,65
+249897537,01 October 2021,,,random_67,,yes,,1,Ward 61,GREEN PARK,GREEN PARK,181,101,80,71
+249897540,01 October 2021,,,random_68,,yes,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,131,120,11,51
+249897546,01 October 2021,,,random_69,,yes,,1,Ward 61,AZAD NAGAR PETROL PUMP,AZAD NAGAR PETROL PUMP,396,108,288,76
+249897555,01 October 2021,,,random_70,,yes,,1,Ward 61,AZAD NAGAR PETROL PUMP,AZAD NAGAR PETROL PUMP,284,47,237,73
+249897558,01 October 2021,,,random_71,,yes,,1,Ward 61,GREEN PARK,GREEN PARK,162,142,20,71
+249897561,01 October 2021,,,random_72,,yes,,1,Ward 61,AZAD NAGAR PETROL PUMP,AZAD NAGAR PETROL PUMP,313,87,226,43
+249897562,01 October 2021,,,random_73,,yes,,1,Ward 61,TARAPORE,TARAPORE,357,97,260,47
+249897563,01 October 2021,,,random_74,,yes,,1,Ward 61,GREEN PARK,GREEN PARK,158,93,65,48
+249897567,01 October 2021,,,random_75,,yes,,1,Ward 61,AZAD NAGAR PETROL PUMP,AZAD NAGAR PETROL PUMP,417,102,315,61
+249897570,01 October 2021,,,random_76,,yes,,1,Ward 61,GREEN PARK,GREEN PARK,79,24,55,92
+249897574,01 October 2021,,,random_77,,yes,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,165,159,6,1
+249897575,01 October 2021,,,random_78,,yes,,1,Ward 61,AZAD NAGAR PETROL PUMP,AZAD NAGAR PETROL PUMP,262,218,44,6
+249897576,01 October 2021,,,random_79,,yes,,1,Ward 61,TARAPORE,TARAPORE,461,234,227,28
+250492234,01 October 2021,,,random_80,,yes,,1,Ward 61,HEERA PANNA ROAD2,HEERA PANNA ROAD,262,4,258,72
+250492235,01 October 2021,,,random_81,,yes,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,184,128,56,81
+250492238,01 October 2021,,,random_82,,apartments,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,81,73,8,92
+294272982,01 October 2021,,,Shantivan Bldg no. 4-7,Off New Link Road,residential,,1,Ward 61,Behram  Baug 2,Behram  Baug,337,163,174,19
+294276588,01 October 2021,,,random_83,,yes,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,222,83,139,87
+294276613,01 October 2021,,,random_84,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,306,302,4,38
+294276614,01 October 2021,,,random_85,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,445,270,175,56
+294276615,01 October 2021,,,random_86,,yes,,1,Ward 61,TARAPORE,TARAPORE,390,200,190,63
+294276617,01 October 2021,,,random_87,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,84,11,73,21
+294276618,01 October 2021,,,random_88,,yes,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,476,189,287,38
+294276619,01 October 2021,,,random_89,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,286,10,276,23
+294276620,01 October 2021,,,random_90,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,207,73,134,80
+294276623,01 October 2021,,,random_91,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,342,64,278,74
+294276624,01 October 2021,,,random_92,,yes,,1,Ward 61,TARAPORE,TARAPORE,392,385,7,30
+294276627,01 October 2021,,,random_93,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,425,358,67,18
+294276628,01 October 2021,,,random_94,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,488,27,461,11
+352922203,01 October 2021,,,random_95,,yes,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,312,295,17,37
+352922204,01 October 2021,,,random_96,,yes,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,466,346,120,70
+352922214,01 October 2021,,,random_97,,yes,,1,Ward 61,AZAD NAGAR PETROL PUMP,AZAD NAGAR PETROL PUMP,413,380,33,41
+352937274,01 October 2021,,,Shantivan Bldg no. 1-3,Off New Link Road,apartments,,1,Ward 61,Behram  Baug 2,Behram  Baug,285,106,179,87
+352937294,01 October 2021,,,random_98,,yes,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,135,60,75,84
+352937296,01 October 2021,,,random_99,,yes,,1,Ward 61,Behram  Baug 1,Behram  Baug,93,69,24,65
+357305658,01 October 2021,,,random_100,,apartments,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,499,199,300,35
+357305671,01 October 2021,,,random_101,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,230,83,147,76
+357305680,01 October 2021,,,random_102,,yes,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,484,274,210,14
+357305681,01 October 2021,,,random_103,,yes,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,454,118,336,99
+357305683,01 October 2021,,,random_104,,apartments,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,169,69,100,43
+358508758,01 October 2021,,,random_105,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,98,51,47,93
+358508761,01 October 2021,,,random_106,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,171,68,103,57
+358822891,01 October 2021,,,random_107,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,42,22,20,54
+358822892,01 October 2021,,,Tarapore Towers,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,362,6,356,4
+358822894,01 October 2021,,,Tarapore Towers,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,462,448,14,40
+358822896,01 October 2021,,,Tarapore Towers,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,407,205,202,69
+358831990,01 October 2021,,,random_108,,yes,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,261,220,41,45
+358832004,01 October 2021,,,random_109,,yes,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,364,98,266,64
+358852089,01 October 2021,,,random_110,,apartments,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,237,145,92,13
+359269237,01 October 2021,,,random_111,,yes,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,290,169,121,91
+359269239,01 October 2021,,,random_112,,apartments,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,385,169,216,12
+359269240,01 October 2021,,,random_113,,yes,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,444,215,229,72
+359269241,01 October 2021,,,random_114,,yes,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,313,153,160,90
+359269244,01 October 2021,,,random_115,,yes,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,181,160,21,75
+417320262,01 October 2021,,,Oshiwara Police Station,,yes,,1,Ward 61,GREEN PARK,GREEN PARK,422,277,145,1
+844471187,01 October 2021,,,City International School,,school,,1,Ward 61,JBCN SCHOOL LANE1,JBCN SCHOOL LANE,452,69,383,49
+844474525,01 October 2021,,,Reliable Business Centre,,commercial,,1,Ward 61,JBCN SCHOOL LANE1,JBCN SCHOOL LANE,383,83,300,7
+986880185,01 October 2021,,,random_116,,apartments,,1,Ward 61,HEERA PANNA ROAD2,HEERA PANNA ROAD,340,316,24,20
+202061691,02 October 2021,,,"Transit Camp, Behram Baug",,commercial,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,60,40,20,51
+202516362,02 October 2021,,,random_5,,yes,,1,Ward 61,GREEN PARK,GREEN PARK,294,258,36,84
+202516364,02 October 2021,,,Heera Panna,,commercial,,1,Ward 61,GREEN PARK,GREEN PARK,175,80,95,70
+202555836,02 October 2021,,,Park Paradise,,yes,,1,Ward 61,Behram  Baug 1,Behram  Baug,293,130,163,15
+202555854,02 October 2021,,,Park View,,yes,,1,Ward 61,Behram  Baug 1,Behram  Baug,131,15,116,51
+227895886,02 October 2021,,,random_4,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,350,13,337,77
+227895887,02 October 2021,,,Evershine Greens,,apartments,,1,Ward 61,BMC ROAD,BMC ROAD,180,33,147,45
+227895889,02 October 2021,,,random_2,,apartments,,1,Ward 61,JBCN SCHOOL LANE1,JBCN SCHOOL LANE,159,115,44,58
+227895891,02 October 2021,,,random_1,,residential,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,214,125,89,43
+227895892,02 October 2021,,,random_3,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,309,146,163,47
+227895894,02 October 2021,,,random_6,,residential,,1,Ward 61,JBCN SCHOOL LANE1,JBCN SCHOOL LANE,470,219,251,17
+227895895,02 October 2021,,,random_7,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,459,214,245,100
+227895896,02 October 2021,,,random_8,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,94,46,48,59
+227895898,02 October 2021,,,random_9,,residential,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,334,310,24,21
+227895899,02 October 2021,,,random_11,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,212,83,129,72
+227895902,02 October 2021,,,Evershine Greens,,apartments,,1,Ward 61,BMC ROAD,BMC ROAD,315,287,28,20
+227895903,02 October 2021,,,random_10,,residential,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,480,141,339,24
+227895904,02 October 2021,,,random_13,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,325,71,254,75
+227895905,02 October 2021,,,random_12,,residential,,1,Ward 61,BMC ROAD,BMC ROAD,399,81,318,94
+227895908,02 October 2021,,,random_14,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,471,137,334,100
+227895909,02 October 2021,,,random_15,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,354,184,170,79
+227895910,02 October 2021,,,random_16,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,30,1,29,21
+227895911,02 October 2021,,,random_17,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,35,8,27,23
+227895912,02 October 2021,,,random_18,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,256,108,148,16
+227895914,02 October 2021,,,random_19,Off New Link Road,yes,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,210,47,163,17
+227895915,02 October 2021,,,Raigad Military School,,school,,1,Ward 61,BMC ROAD,BMC ROAD,486,141,345,27
+227895916,02 October 2021,,,random_20,,residential,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,206,161,45,23
+227895917,02 October 2021,,,random_21,,residential,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,492,241,251,5
+228031928,02 October 2021,,Building no. 29,Samruddhi CHS,Oshiwara Link Road,residential,,1,Ward 61,Behram  Baug 1,Behram  Baug,203,122,81,85
+228031929,02 October 2021,,,Oshiwara Basera,,residential,,1,Ward 61,Behram  Baug 1,Behram  Baug,156,127,29,28
+228031930,02 October 2021,,,East Side Apartments,,apartments,,1,Ward 61,Behram  Baug 1,Behram  Baug,167,76,91,90
+228031933,02 October 2021,,,Anand Vihar,,residential,,1,Ward 61,Behram  Baug 1,Behram  Baug,301,224,77,35
+249860327,02 October 2021,,,Meera C.H.S.,"Link Road Extension, Oshiwara, Andheri West",residential,,1,Ward 61,MEGA MALL 1,MEGA MALL,258,147,111,97
+249860328,02 October 2021,,,random_22,,yes,,1,Ward 61,Techweb centre,ANAND NAGAR,340,192,148,80
+249860330,02 October 2021,,,random_23,,yes,,1,Ward 61,Techweb centre,ANAND NAGAR,394,391,3,42
+249860331,02 October 2021,,,random_24,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,336,311,25,58
+249860335,02 October 2021,,,random_25,,yes,,1,Ward 61,Behram  Baug 2,Behram  Baug,31,30,1,21
+249860339,02 October 2021,,,Sanskar,,apartments,,1,Ward 61, Evershine Green,ROSHAN NAGAR,448,401,47,40
+249860342,02 October 2021,,,random_26,,yes,,1,Ward 61, Evershine Green,ROSHAN NAGAR,63,43,20,46
+249860343,02 October 2021,,,Tarapore Towers,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,108,29,79,56
+249860344,02 October 2021,,,random_27,,yes,,1,Ward 61,MEGA MALL 1,MEGA MALL,59,18,41,19
+249860345,02 October 2021,,,random_28,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,444,209,235,86
+249860353,02 October 2021,,,random_29,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,229,12,217,34
+249860355,02 October 2021,,,random_30,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,108,106,2,3
+249860360,02 October 2021,,,random_31,,yes,,1,Ward 61,Behram  Baug 2,Behram  Baug,48,23,25,92
+249860365,02 October 2021,,,random_32,,apartments,,1,Ward 61, Evershine Green,ROSHAN NAGAR,336,118,218,63
+249860366,02 October 2021,,,random_33,,yes,,1,Ward 61,MEGA MALL 1,MEGA MALL,421,174,247,54
+249860369,02 October 2021,,,random_34,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,102,11,91,99
+249860374,02 October 2021,,,random_35,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,77,20,57,50
+249860375,02 October 2021,,,random_36,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,9,1,8,34
+249860377,02 October 2021,,,random_37,,yes,,1,Ward 61,Behram  Baug 1,Behram  Baug,209,35,174,53
+249860383,02 October 2021,,,random_38,,apartments,,1,Ward 61, Evershine Green,ROSHAN NAGAR,105,74,31,27
+249860384,02 October 2021,,,Sargam,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,381,147,234,33
+249860386,02 October 2021,,,random_39,,apartments,,1,Ward 61,MEGA MALL 1,MEGA MALL,75,48,27,51
+249860389,02 October 2021,,flat no. 404,Marigold Apartments,Off New Link Road,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,15,7,8,88
+249860393,02 October 2021,,,random_40,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,381,289,92,54
+249860394,02 October 2021,,,Link Way,,yes,,1,Ward 61,Behram  Baug 2,Behram  Baug,358,98,260,40
+249860396,02 October 2021,,,random_41,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,381,224,157,42
+249860398,02 October 2021,,,random_42,,apartments,,1,Ward 61,MEGA MALL 1,MEGA MALL,128,86,42,38
+249860399,02 October 2021,,,random_43,,yes,,1,Ward 61,MEGA MALL 1,MEGA MALL,88,1,87,62
+249860402,02 October 2021,,,random_44,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,46,9,37,38
+249860408,02 October 2021,,,random_45,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,391,114,277,47
+249860410,02 October 2021,,,random_46,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,253,48,205,72
+249860412,02 October 2021,,,random_47,,apartments,,1,Ward 61,MEGA MALL 1,MEGA MALL,161,3,158,43
+249860415,02 October 2021,,,random_48,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,202,53,149,81
+249860418,02 October 2021,,,random_49,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,12,12,0,100
+249860421,02 October 2021,,,random_50,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,457,57,400,84
+249860424,02 October 2021,,,random_51,,yes,,1,Ward 61,Behram  Baug 2,Behram  Baug,130,64,66,57
+249860425,02 October 2021,,,random_52,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,361,165,196,71
+249860428,02 October 2021,,,random_53,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,313,146,167,25
+249860429,02 October 2021,,,random_54,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,442,242,200,75
+249860432,02 October 2021,,,Utsav,,apartments,,1,Ward 61, Evershine Green,ROSHAN NAGAR,397,145,252,36
+249860433,02 October 2021,,,random_55,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,47,45,2,45
+249860434,02 October 2021,,701,Garden View - Dr Kaushal Shah's Residence,Off New Link Rd,yes,,1,Ward 61,Behram  Baug 1,Behram  Baug,387,165,222,36
+249860438,02 October 2021,,,Rajrani Malhotra Vidyalaya,,school,,1,Ward 61,Behram  Baug 2,Behram  Baug,99,14,85,99
+249860442,02 October 2021,,,random_56,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,138,9,129,53
+249860444,02 October 2021,,,random_57,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,442,175,267,83
+249860449,02 October 2021,,,Rajnigandha,,apartments,,1,Ward 61, Evershine Green,ROSHAN NAGAR,421,171,250,85
+249860451,02 October 2021,,,random_58,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,444,400,44,29
+249860456,02 October 2021,,,random_59,,yes,,1,Ward 61,Behram  Baug 2,Behram  Baug,348,48,300,100
+249860462,02 October 2021,,,random_60,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,304,243,61,18
+249860466,02 October 2021,,,Kaveri,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,409,96,313,54
+249860469,02 October 2021,,,random_61,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,86,9,77,83
+249860471,02 October 2021,,,random_62,,yes,,1,Ward 61,Techweb centre,ANAND NAGAR,391,131,260,98
+249860500,02 October 2021,,,Tarapore Towers,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,473,364,109,35
+249864713,02 October 2021,,,random_63,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,83,45,38,44
+249897526,02 October 2021,,,random_64,,yes,,1,Ward 61,TARAPORE,TARAPORE,215,138,77,77
+249897534,02 October 2021,,,random_65,,yes,,1,Ward 61,TARAPORE,TARAPORE,18,15,3,17
+249897536,02 October 2021,,,random_66,,yes,,1,Ward 61,GREEN PARK,GREEN PARK,306,118,188,96
+249897537,02 October 2021,,,random_67,,yes,,1,Ward 61,GREEN PARK,GREEN PARK,139,100,39,49
+249897540,02 October 2021,,,random_68,,yes,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,136,28,108,9
+249897546,02 October 2021,,,random_69,,yes,,1,Ward 61,AZAD NAGAR PETROL PUMP,AZAD NAGAR PETROL PUMP,364,114,250,44
+249897555,02 October 2021,,,random_70,,yes,,1,Ward 61,AZAD NAGAR PETROL PUMP,AZAD NAGAR PETROL PUMP,243,23,220,57
+249897558,02 October 2021,,,random_71,,yes,,1,Ward 61,GREEN PARK,GREEN PARK,131,63,68,6
+249897561,02 October 2021,,,random_72,,yes,,1,Ward 61,AZAD NAGAR PETROL PUMP,AZAD NAGAR PETROL PUMP,484,297,187,26
+249897562,02 October 2021,,,random_73,,yes,,1,Ward 61,TARAPORE,TARAPORE,172,160,12,20
+249897563,02 October 2021,,,random_74,,yes,,1,Ward 61,GREEN PARK,GREEN PARK,299,252,47,75
+249897567,02 October 2021,,,random_75,,yes,,1,Ward 61,AZAD NAGAR PETROL PUMP,AZAD NAGAR PETROL PUMP,378,265,113,9
+249897570,02 October 2021,,,random_76,,yes,,1,Ward 61,GREEN PARK,GREEN PARK,437,340,97,44
+249897574,02 October 2021,,,random_77,,yes,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,269,103,166,1
+249897575,02 October 2021,,,random_78,,yes,,1,Ward 61,AZAD NAGAR PETROL PUMP,AZAD NAGAR PETROL PUMP,315,219,96,62
+249897576,02 October 2021,,,random_79,,yes,,1,Ward 61,TARAPORE,TARAPORE,92,26,66,83
+250492234,02 October 2021,,,random_80,,yes,,1,Ward 61,HEERA PANNA ROAD2,HEERA PANNA ROAD,308,183,125,10
+250492235,02 October 2021,,,random_81,,yes,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,79,57,22,78
+250492238,02 October 2021,,,random_82,,apartments,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,395,309,86,86
+294272982,02 October 2021,,,Shantivan Bldg no. 4-7,Off New Link Road,residential,,1,Ward 61,Behram  Baug 2,Behram  Baug,357,191,166,78
+294276588,02 October 2021,,,random_83,,yes,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,199,170,29,89
+294276613,02 October 2021,,,random_84,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,469,448,21,76
+294276614,02 October 2021,,,random_85,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,122,105,17,31
+294276615,02 October 2021,,,random_86,,yes,,1,Ward 61,TARAPORE,TARAPORE,324,195,129,76
+294276617,02 October 2021,,,random_87,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,174,85,89,56
+294276618,02 October 2021,,,random_88,,yes,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,102,80,22,31
+294276619,02 October 2021,,,random_89,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,269,245,24,18
+294276620,02 October 2021,,,random_90,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,95,34,61,21
+294276623,02 October 2021,,,random_91,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,9,2,7,62
+294276624,02 October 2021,,,random_92,,yes,,1,Ward 61,TARAPORE,TARAPORE,383,109,274,32
+294276627,02 October 2021,,,random_93,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,477,101,376,13
+294276628,02 October 2021,,,random_94,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,234,47,187,81
+352922203,02 October 2021,,,random_95,,yes,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,301,112,189,50
+352922204,02 October 2021,,,random_96,,yes,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,42,28,14,98
+352922214,02 October 2021,,,random_97,,yes,,1,Ward 61,AZAD NAGAR PETROL PUMP,AZAD NAGAR PETROL PUMP,105,40,65,46
+352937274,02 October 2021,,,Shantivan Bldg no. 1-3,Off New Link Road,apartments,,1,Ward 61,Behram  Baug 2,Behram  Baug,409,349,60,51
+352937294,02 October 2021,,,random_98,,yes,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,188,102,86,73
+352937296,02 October 2021,,,random_99,,yes,,1,Ward 61,Behram  Baug 1,Behram  Baug,464,57,407,51
+357305658,02 October 2021,,,random_100,,apartments,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,5,0,5,80
+357305671,02 October 2021,,,random_101,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,484,85,399,53
+357305680,02 October 2021,,,random_102,,yes,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,347,99,248,46
+357305681,02 October 2021,,,random_103,,yes,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,376,281,95,18
+357305683,02 October 2021,,,random_104,,apartments,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,470,164,306,39
+358508758,02 October 2021,,,random_105,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,338,287,51,88
+358508761,02 October 2021,,,random_106,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,44,23,21,36
+358822891,02 October 2021,,,random_107,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,205,49,156,49
+358822892,02 October 2021,,,Tarapore Towers,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,5,0,5,37
+358822894,02 October 2021,,,Tarapore Towers,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,418,238,180,23
+358822896,02 October 2021,,,Tarapore Towers,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,105,1,104,62
+358831990,02 October 2021,,,random_108,,yes,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,43,25,18,48
+358832004,02 October 2021,,,random_109,,yes,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,124,91,33,51
+358852089,02 October 2021,,,random_110,,apartments,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,457,34,423,29
+359269237,02 October 2021,,,random_111,,yes,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,53,8,45,58
+359269239,02 October 2021,,,random_112,,apartments,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,33,21,12,100
+359269240,02 October 2021,,,random_113,,yes,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,27,6,21,5
+359269241,02 October 2021,,,random_114,,yes,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,84,11,73,47
+359269244,02 October 2021,,,random_115,,yes,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,274,203,71,89
+417320262,02 October 2021,,,Oshiwara Police Station,,yes,,1,Ward 61,GREEN PARK,GREEN PARK,376,227,149,8
+844471187,02 October 2021,,,City International School,,school,,1,Ward 61,JBCN SCHOOL LANE1,JBCN SCHOOL LANE,214,7,207,5
+844474525,02 October 2021,,,Reliable Business Centre,,commercial,,1,Ward 61,JBCN SCHOOL LANE1,JBCN SCHOOL LANE,373,205,168,87
+986880185,02 October 2021,,,random_116,,apartments,,1,Ward 61,HEERA PANNA ROAD2,HEERA PANNA ROAD,24,7,17,91
+202061691,03 October 2021,,,"Transit Camp, Behram Baug",,commercial,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,460,286,174,66
+202516362,03 October 2021,,,random_5,,yes,,1,Ward 61,GREEN PARK,GREEN PARK,58,52,6,27
+202516364,03 October 2021,,,Heera Panna,,commercial,,1,Ward 61,GREEN PARK,GREEN PARK,119,11,108,73
+202555836,03 October 2021,,,Park Paradise,,yes,,1,Ward 61,Behram  Baug 1,Behram  Baug,305,223,82,60
+202555854,03 October 2021,,,Park View,,yes,,1,Ward 61,Behram  Baug 1,Behram  Baug,157,10,147,71
+227895886,03 October 2021,,,random_4,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,191,59,132,52
+227895887,03 October 2021,,,Evershine Greens,,apartments,,1,Ward 61,BMC ROAD,BMC ROAD,251,247,4,89
+227895889,03 October 2021,,,random_2,,apartments,,1,Ward 61,JBCN SCHOOL LANE1,JBCN SCHOOL LANE,276,276,0,42
+227895891,03 October 2021,,,random_1,,residential,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,500,40,460,47
+227895892,03 October 2021,,,random_3,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,89,87,2,62
+227895894,03 October 2021,,,random_6,,residential,,1,Ward 61,JBCN SCHOOL LANE1,JBCN SCHOOL LANE,17,3,14,1
+227895895,03 October 2021,,,random_7,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,317,55,262,34
+227895896,03 October 2021,,,random_8,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,56,48,8,37
+227895898,03 October 2021,,,random_9,,residential,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,148,84,64,56
+227895899,03 October 2021,,,random_11,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,251,245,6,74
+227895902,03 October 2021,,,Evershine Greens,,apartments,,1,Ward 61,BMC ROAD,BMC ROAD,455,35,420,33
+227895903,03 October 2021,,,random_10,,residential,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,240,108,132,44
+227895904,03 October 2021,,,random_13,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,436,129,307,81
+227895905,03 October 2021,,,random_12,,residential,,1,Ward 61,BMC ROAD,BMC ROAD,20,5,15,37
+227895908,03 October 2021,,,random_14,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,247,200,47,30
+227895909,03 October 2021,,,random_15,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,459,71,388,84
+227895910,03 October 2021,,,random_16,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,390,327,63,7
+227895911,03 October 2021,,,random_17,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,380,208,172,74
+227895912,03 October 2021,,,random_18,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,221,48,173,54
+227895914,03 October 2021,,,random_19,Off New Link Road,yes,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,333,266,67,89
+227895915,03 October 2021,,,Raigad Military School,,school,,1,Ward 61,BMC ROAD,BMC ROAD,312,127,185,78
+227895916,03 October 2021,,,random_20,,residential,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,108,43,65,8
+227895917,03 October 2021,,,random_21,,residential,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,479,159,320,93
+228031928,03 October 2021,,Building no. 29,Samruddhi CHS,Oshiwara Link Road,residential,,1,Ward 61,Behram  Baug 1,Behram  Baug,233,121,112,12
+228031929,03 October 2021,,,Oshiwara Basera,,residential,,1,Ward 61,Behram  Baug 1,Behram  Baug,79,38,41,15
+228031930,03 October 2021,,,East Side Apartments,,apartments,,1,Ward 61,Behram  Baug 1,Behram  Baug,37,17,20,52
+228031933,03 October 2021,,,Anand Vihar,,residential,,1,Ward 61,Behram  Baug 1,Behram  Baug,32,18,14,80
+249860327,03 October 2021,,,Meera C.H.S.,"Link Road Extension, Oshiwara, Andheri West",residential,,1,Ward 61,MEGA MALL 1,MEGA MALL,183,50,133,40
+249860328,03 October 2021,,,random_22,,yes,,1,Ward 61,Techweb centre,ANAND NAGAR,383,159,224,82
+249860330,03 October 2021,,,random_23,,yes,,1,Ward 61,Techweb centre,ANAND NAGAR,100,50,50,89
+249860331,03 October 2021,,,random_24,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,374,301,73,15
+249860335,03 October 2021,,,random_25,,yes,,1,Ward 61,Behram  Baug 2,Behram  Baug,48,35,13,73
+249860339,03 October 2021,,,Sanskar,,apartments,,1,Ward 61, Evershine Green,ROSHAN NAGAR,278,215,63,52
+249860342,03 October 2021,,,random_26,,yes,,1,Ward 61, Evershine Green,ROSHAN NAGAR,92,58,34,21
+249860343,03 October 2021,,,Tarapore Towers,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,381,49,332,11
+249860344,03 October 2021,,,random_27,,yes,,1,Ward 61,MEGA MALL 1,MEGA MALL,411,321,90,71
+249860345,03 October 2021,,,random_28,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,468,392,76,91
+249860353,03 October 2021,,,random_29,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,494,456,38,88
+249860355,03 October 2021,,,random_30,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,229,72,157,73
+249860360,03 October 2021,,,random_31,,yes,,1,Ward 61,Behram  Baug 2,Behram  Baug,149,73,76,20
+249860365,03 October 2021,,,random_32,,apartments,,1,Ward 61, Evershine Green,ROSHAN NAGAR,301,229,72,25
+249860366,03 October 2021,,,random_33,,yes,,1,Ward 61,MEGA MALL 1,MEGA MALL,51,20,31,87
+249860369,03 October 2021,,,random_34,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,268,217,51,98
+249860374,03 October 2021,,,random_35,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,416,279,137,87
+249860375,03 October 2021,,,random_36,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,477,187,290,98
+249860377,03 October 2021,,,random_37,,yes,,1,Ward 61,Behram  Baug 1,Behram  Baug,381,194,187,60
+249860383,03 October 2021,,,random_38,,apartments,,1,Ward 61, Evershine Green,ROSHAN NAGAR,216,1,215,79
+249860384,03 October 2021,,,Sargam,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,68,13,55,98
+249860386,03 October 2021,,,random_39,,apartments,,1,Ward 61,MEGA MALL 1,MEGA MALL,451,35,416,94
+249860389,03 October 2021,,flat no. 404,Marigold Apartments,Off New Link Road,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,306,188,118,9
+249860393,03 October 2021,,,random_40,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,20,6,14,69
+249860394,03 October 2021,,,Link Way,,yes,,1,Ward 61,Behram  Baug 2,Behram  Baug,214,97,117,5
+249860396,03 October 2021,,,random_41,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,386,300,86,78
+249860398,03 October 2021,,,random_42,,apartments,,1,Ward 61,MEGA MALL 1,MEGA MALL,158,62,96,74
+249860399,03 October 2021,,,random_43,,yes,,1,Ward 61,MEGA MALL 1,MEGA MALL,389,168,221,59
+249860402,03 October 2021,,,random_44,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,279,198,81,57
+249860408,03 October 2021,,,random_45,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,407,44,363,39
+249860410,03 October 2021,,,random_46,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,263,192,71,17
+249860412,03 October 2021,,,random_47,,apartments,,1,Ward 61,MEGA MALL 1,MEGA MALL,98,19,79,29
+249860415,03 October 2021,,,random_48,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,22,19,3,19
+249860418,03 October 2021,,,random_49,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,289,267,22,56
+249860421,03 October 2021,,,random_50,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,198,39,159,89
+249860424,03 October 2021,,,random_51,,yes,,1,Ward 61,Behram  Baug 2,Behram  Baug,183,77,106,6
+249860425,03 October 2021,,,random_52,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,217,214,3,35
+249860428,03 October 2021,,,random_53,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,230,106,124,13
+249860429,03 October 2021,,,random_54,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,286,5,281,23
+249860432,03 October 2021,,,Utsav,,apartments,,1,Ward 61, Evershine Green,ROSHAN NAGAR,375,9,366,17
+249860433,03 October 2021,,,random_55,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,253,122,131,67
+249860434,03 October 2021,,701,Garden View - Dr Kaushal Shah's Residence,Off New Link Rd,yes,,1,Ward 61,Behram  Baug 1,Behram  Baug,38,24,14,54
+249860438,03 October 2021,,,Rajrani Malhotra Vidyalaya,,school,,1,Ward 61,Behram  Baug 2,Behram  Baug,262,199,63,74
+249860442,03 October 2021,,,random_56,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,324,133,191,65
+249860444,03 October 2021,,,random_57,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,357,334,23,56
+249860449,03 October 2021,,,Rajnigandha,,apartments,,1,Ward 61, Evershine Green,ROSHAN NAGAR,138,73,65,50
+249860451,03 October 2021,,,random_58,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,135,92,43,78
+249860456,03 October 2021,,,random_59,,yes,,1,Ward 61,Behram  Baug 2,Behram  Baug,5,0,5,69
+249860462,03 October 2021,,,random_60,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,495,378,117,4
+249860466,03 October 2021,,,Kaveri,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,288,100,188,65
+249860469,03 October 2021,,,random_61,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,291,161,130,59
+249860471,03 October 2021,,,random_62,,yes,,1,Ward 61,Techweb centre,ANAND NAGAR,407,115,292,34
+249860500,03 October 2021,,,Tarapore Towers,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,295,43,252,36
+249864713,03 October 2021,,,random_63,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,252,151,101,24
+249897526,03 October 2021,,,random_64,,yes,,1,Ward 61,TARAPORE,TARAPORE,249,80,169,99
+249897534,03 October 2021,,,random_65,,yes,,1,Ward 61,TARAPORE,TARAPORE,180,135,45,10
+249897536,03 October 2021,,,random_66,,yes,,1,Ward 61,GREEN PARK,GREEN PARK,1,1,0,55
+249897537,03 October 2021,,,random_67,,yes,,1,Ward 61,GREEN PARK,GREEN PARK,211,200,11,0
+249897540,03 October 2021,,,random_68,,yes,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,45,21,24,56
+249897546,03 October 2021,,,random_69,,yes,,1,Ward 61,AZAD NAGAR PETROL PUMP,AZAD NAGAR PETROL PUMP,433,37,396,21
+249897555,03 October 2021,,,random_70,,yes,,1,Ward 61,AZAD NAGAR PETROL PUMP,AZAD NAGAR PETROL PUMP,113,37,76,65
+249897558,03 October 2021,,,random_71,,yes,,1,Ward 61,GREEN PARK,GREEN PARK,363,108,255,71
+249897561,03 October 2021,,,random_72,,yes,,1,Ward 61,AZAD NAGAR PETROL PUMP,AZAD NAGAR PETROL PUMP,371,191,180,73
+249897562,03 October 2021,,,random_73,,yes,,1,Ward 61,TARAPORE,TARAPORE,436,362,74,54
+249897563,03 October 2021,,,random_74,,yes,,1,Ward 61,GREEN PARK,GREEN PARK,401,110,291,12
+249897567,03 October 2021,,,random_75,,yes,,1,Ward 61,AZAD NAGAR PETROL PUMP,AZAD NAGAR PETROL PUMP,146,21,125,64
+249897570,03 October 2021,,,random_76,,yes,,1,Ward 61,GREEN PARK,GREEN PARK,88,82,6,36
+249897574,03 October 2021,,,random_77,,yes,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,407,216,191,59
+249897575,03 October 2021,,,random_78,,yes,,1,Ward 61,AZAD NAGAR PETROL PUMP,AZAD NAGAR PETROL PUMP,44,6,38,14
+249897576,03 October 2021,,,random_79,,yes,,1,Ward 61,TARAPORE,TARAPORE,500,414,86,74
+250492234,03 October 2021,,,random_80,,yes,,1,Ward 61,HEERA PANNA ROAD2,HEERA PANNA ROAD,335,233,102,2
+250492235,03 October 2021,,,random_81,,yes,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,229,171,58,68
+250492238,03 October 2021,,,random_82,,apartments,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,282,36,246,36
+294272982,03 October 2021,,,Shantivan Bldg no. 4-7,Off New Link Road,residential,,1,Ward 61,Behram  Baug 2,Behram  Baug,475,388,87,93
+294276588,03 October 2021,,,random_83,,yes,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,423,83,340,8
+294276613,03 October 2021,,,random_84,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,457,132,325,33
+294276614,03 October 2021,,,random_85,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,36,4,32,78
+294276615,03 October 2021,,,random_86,,yes,,1,Ward 61,TARAPORE,TARAPORE,108,108,0,63
+294276617,03 October 2021,,,random_87,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,191,127,64,42
+294276618,03 October 2021,,,random_88,,yes,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,478,167,311,45
+294276619,03 October 2021,,,random_89,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,353,277,76,51
+294276620,03 October 2021,,,random_90,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,356,35,321,22
+294276623,03 October 2021,,,random_91,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,15,15,0,9
+294276624,03 October 2021,,,random_92,,yes,,1,Ward 61,TARAPORE,TARAPORE,66,36,30,99
+294276627,03 October 2021,,,random_93,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,231,231,0,21
+294276628,03 October 2021,,,random_94,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,101,46,55,53
+352922203,03 October 2021,,,random_95,,yes,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,368,218,150,25
+352922204,03 October 2021,,,random_96,,yes,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,352,46,306,43
+352922214,03 October 2021,,,random_97,,yes,,1,Ward 61,AZAD NAGAR PETROL PUMP,AZAD NAGAR PETROL PUMP,477,218,259,63
+352937274,03 October 2021,,,Shantivan Bldg no. 1-3,Off New Link Road,apartments,,1,Ward 61,Behram  Baug 2,Behram  Baug,403,362,41,94
+352937294,03 October 2021,,,random_98,,yes,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,486,313,173,68
+352937296,03 October 2021,,,random_99,,yes,,1,Ward 61,Behram  Baug 1,Behram  Baug,148,138,10,74
+357305658,03 October 2021,,,random_100,,apartments,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,449,132,317,69
+357305671,03 October 2021,,,random_101,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,482,24,458,13
+357305680,03 October 2021,,,random_102,,yes,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,430,381,49,54
+357305681,03 October 2021,,,random_103,,yes,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,371,143,228,26
+357305683,03 October 2021,,,random_104,,apartments,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,140,81,59,32
+358508758,03 October 2021,,,random_105,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,438,78,360,99
+358508761,03 October 2021,,,random_106,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,338,95,243,53
+358822891,03 October 2021,,,random_107,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,136,98,38,5
+358822892,03 October 2021,,,Tarapore Towers,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,86,54,32,84
+358822894,03 October 2021,,,Tarapore Towers,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,366,205,161,60
+358822896,03 October 2021,,,Tarapore Towers,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,64,5,59,18
+358831990,03 October 2021,,,random_108,,yes,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,272,145,127,37
+358832004,03 October 2021,,,random_109,,yes,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,342,47,295,83
+358852089,03 October 2021,,,random_110,,apartments,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,213,130,83,14
+359269237,03 October 2021,,,random_111,,yes,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,249,80,169,90
+359269239,03 October 2021,,,random_112,,apartments,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,492,223,269,42
+359269240,03 October 2021,,,random_113,,yes,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,485,420,65,63
+359269241,03 October 2021,,,random_114,,yes,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,8,5,3,69
+359269244,03 October 2021,,,random_115,,yes,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,247,105,142,15
+417320262,03 October 2021,,,Oshiwara Police Station,,yes,,1,Ward 61,GREEN PARK,GREEN PARK,465,434,31,72
+844471187,03 October 2021,,,City International School,,school,,1,Ward 61,JBCN SCHOOL LANE1,JBCN SCHOOL LANE,172,137,35,75
+844474525,03 October 2021,,,Reliable Business Centre,,commercial,,1,Ward 61,JBCN SCHOOL LANE1,JBCN SCHOOL LANE,139,126,13,32
+986880185,03 October 2021,,,random_116,,apartments,,1,Ward 61,HEERA PANNA ROAD2,HEERA PANNA ROAD,284,20,264,60
+202061691,04 October 2021,,,"Transit Camp, Behram Baug",,commercial,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,128,95,33,36
+202516362,04 October 2021,,,random_5,,yes,,1,Ward 61,GREEN PARK,GREEN PARK,421,189,232,97
+202516364,04 October 2021,,,Heera Panna,,commercial,,1,Ward 61,GREEN PARK,GREEN PARK,449,83,366,5
+202555836,04 October 2021,,,Park Paradise,,yes,,1,Ward 61,Behram  Baug 1,Behram  Baug,402,37,365,40
+202555854,04 October 2021,,,Park View,,yes,,1,Ward 61,Behram  Baug 1,Behram  Baug,27,17,10,86
+227895886,04 October 2021,,,random_4,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,450,193,257,97
+227895887,04 October 2021,,,Evershine Greens,,apartments,,1,Ward 61,BMC ROAD,BMC ROAD,28,28,0,70
+227895889,04 October 2021,,,random_2,,apartments,,1,Ward 61,JBCN SCHOOL LANE1,JBCN SCHOOL LANE,309,29,280,39
+227895891,04 October 2021,,,random_1,,residential,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,260,157,103,14
+227895892,04 October 2021,,,random_3,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,397,298,99,60
+227895894,04 October 2021,,,random_6,,residential,,1,Ward 61,JBCN SCHOOL LANE1,JBCN SCHOOL LANE,307,172,135,54
+227895895,04 October 2021,,,random_7,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,454,103,351,6
+227895896,04 October 2021,,,random_8,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,384,293,91,5
+227895898,04 October 2021,,,random_9,,residential,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,137,106,31,22
+227895899,04 October 2021,,,random_11,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,83,57,26,33
+227895902,04 October 2021,,,Evershine Greens,,apartments,,1,Ward 61,BMC ROAD,BMC ROAD,82,21,61,22
+227895903,04 October 2021,,,random_10,,residential,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,476,110,366,50
+227895904,04 October 2021,,,random_13,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,240,96,144,34
+227895905,04 October 2021,,,random_12,,residential,,1,Ward 61,BMC ROAD,BMC ROAD,246,85,161,8
+227895908,04 October 2021,,,random_14,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,424,384,40,75
+227895909,04 October 2021,,,random_15,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,69,45,24,5
+227895910,04 October 2021,,,random_16,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,227,34,193,24
+227895911,04 October 2021,,,random_17,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,67,9,58,2
+227895912,04 October 2021,,,random_18,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,400,385,15,94
+227895914,04 October 2021,,,random_19,Off New Link Road,yes,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,125,6,119,37
+227895915,04 October 2021,,,Raigad Military School,,school,,1,Ward 61,BMC ROAD,BMC ROAD,20,15,5,70
+227895916,04 October 2021,,,random_20,,residential,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,213,165,48,71
+227895917,04 October 2021,,,random_21,,residential,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,255,70,185,29
+228031928,04 October 2021,,Building no. 29,Samruddhi CHS,Oshiwara Link Road,residential,,1,Ward 61,Behram  Baug 1,Behram  Baug,296,70,226,32
+228031929,04 October 2021,,,Oshiwara Basera,,residential,,1,Ward 61,Behram  Baug 1,Behram  Baug,383,119,264,10
+228031930,04 October 2021,,,East Side Apartments,,apartments,,1,Ward 61,Behram  Baug 1,Behram  Baug,164,124,40,94
+228031933,04 October 2021,,,Anand Vihar,,residential,,1,Ward 61,Behram  Baug 1,Behram  Baug,202,181,21,41
+249860327,04 October 2021,,,Meera C.H.S.,"Link Road Extension, Oshiwara, Andheri West",residential,,1,Ward 61,MEGA MALL 1,MEGA MALL,349,57,292,89
+249860328,04 October 2021,,,random_22,,yes,,1,Ward 61,Techweb centre,ANAND NAGAR,377,109,268,60
+249860330,04 October 2021,,,random_23,,yes,,1,Ward 61,Techweb centre,ANAND NAGAR,237,206,31,1
+249860331,04 October 2021,,,random_24,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,277,91,186,99
+249860335,04 October 2021,,,random_25,,yes,,1,Ward 61,Behram  Baug 2,Behram  Baug,184,67,117,54
+249860339,04 October 2021,,,Sanskar,,apartments,,1,Ward 61, Evershine Green,ROSHAN NAGAR,35,1,34,3
+249860342,04 October 2021,,,random_26,,yes,,1,Ward 61, Evershine Green,ROSHAN NAGAR,119,29,90,81
+249860343,04 October 2021,,,Tarapore Towers,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,454,238,216,82
+249860344,04 October 2021,,,random_27,,yes,,1,Ward 61,MEGA MALL 1,MEGA MALL,391,205,186,62
+249860345,04 October 2021,,,random_28,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,40,35,5,45
+249860353,04 October 2021,,,random_29,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,307,120,187,98
+249860355,04 October 2021,,,random_30,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,131,99,32,33
+249860360,04 October 2021,,,random_31,,yes,,1,Ward 61,Behram  Baug 2,Behram  Baug,377,215,162,5
+249860365,04 October 2021,,,random_32,,apartments,,1,Ward 61, Evershine Green,ROSHAN NAGAR,385,311,74,77
+249860366,04 October 2021,,,random_33,,yes,,1,Ward 61,MEGA MALL 1,MEGA MALL,203,54,149,76
+249860369,04 October 2021,,,random_34,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,407,296,111,50
+249860374,04 October 2021,,,random_35,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,306,118,188,19
+249860375,04 October 2021,,,random_36,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,424,48,376,59
+249860377,04 October 2021,,,random_37,,yes,,1,Ward 61,Behram  Baug 1,Behram  Baug,403,292,111,60
+249860383,04 October 2021,,,random_38,,apartments,,1,Ward 61, Evershine Green,ROSHAN NAGAR,270,79,191,46
+249860384,04 October 2021,,,Sargam,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,398,115,283,24
+249860386,04 October 2021,,,random_39,,apartments,,1,Ward 61,MEGA MALL 1,MEGA MALL,477,408,69,56
+249860389,04 October 2021,,flat no. 404,Marigold Apartments,Off New Link Road,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,148,19,129,96
+249860393,04 October 2021,,,random_40,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,481,178,303,84
+249860394,04 October 2021,,,Link Way,,yes,,1,Ward 61,Behram  Baug 2,Behram  Baug,117,9,108,54
+249860396,04 October 2021,,,random_41,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,471,294,177,67
+249860398,04 October 2021,,,random_42,,apartments,,1,Ward 61,MEGA MALL 1,MEGA MALL,221,180,41,12
+249860399,04 October 2021,,,random_43,,yes,,1,Ward 61,MEGA MALL 1,MEGA MALL,466,113,353,86
+249860402,04 October 2021,,,random_44,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,73,22,51,18
+249860408,04 October 2021,,,random_45,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,395,147,248,86
+249860410,04 October 2021,,,random_46,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,231,180,51,27
+249860412,04 October 2021,,,random_47,,apartments,,1,Ward 61,MEGA MALL 1,MEGA MALL,282,163,119,9
+249860415,04 October 2021,,,random_48,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,245,0,245,40
+249860418,04 October 2021,,,random_49,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,484,172,312,48
+249860421,04 October 2021,,,random_50,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,23,8,15,42
+249860424,04 October 2021,,,random_51,,yes,,1,Ward 61,Behram  Baug 2,Behram  Baug,7,0,7,12
+249860425,04 October 2021,,,random_52,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,239,232,7,43
+249860428,04 October 2021,,,random_53,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,200,117,83,60
+249860429,04 October 2021,,,random_54,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,157,76,81,48
+249860432,04 October 2021,,,Utsav,,apartments,,1,Ward 61, Evershine Green,ROSHAN NAGAR,272,198,74,4
+249860433,04 October 2021,,,random_55,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,167,43,124,5
+249860434,04 October 2021,,701,Garden View - Dr Kaushal Shah's Residence,Off New Link Rd,yes,,1,Ward 61,Behram  Baug 1,Behram  Baug,177,49,128,77
+249860438,04 October 2021,,,Rajrani Malhotra Vidyalaya,,school,,1,Ward 61,Behram  Baug 2,Behram  Baug,237,70,167,1
+249860442,04 October 2021,,,random_56,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,9,2,7,25
+249860444,04 October 2021,,,random_57,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,384,187,197,69
+249860449,04 October 2021,,,Rajnigandha,,apartments,,1,Ward 61, Evershine Green,ROSHAN NAGAR,266,80,186,48
+249860451,04 October 2021,,,random_58,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,176,114,62,93
+249860456,04 October 2021,,,random_59,,yes,,1,Ward 61,Behram  Baug 2,Behram  Baug,252,204,48,61
+249860462,04 October 2021,,,random_60,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,196,187,9,28
+249860466,04 October 2021,,,Kaveri,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,96,84,12,83
+249860469,04 October 2021,,,random_61,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,114,82,32,7
+249860471,04 October 2021,,,random_62,,yes,,1,Ward 61,Techweb centre,ANAND NAGAR,437,7,430,29
+249860500,04 October 2021,,,Tarapore Towers,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,53,9,44,14
+249864713,04 October 2021,,,random_63,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,458,51,407,24
+249897526,04 October 2021,,,random_64,,yes,,1,Ward 61,TARAPORE,TARAPORE,275,232,43,78
+249897534,04 October 2021,,,random_65,,yes,,1,Ward 61,TARAPORE,TARAPORE,431,106,325,77
+249897536,04 October 2021,,,random_66,,yes,,1,Ward 61,GREEN PARK,GREEN PARK,121,81,40,17
+249897537,04 October 2021,,,random_67,,yes,,1,Ward 61,GREEN PARK,GREEN PARK,371,315,56,43
+249897540,04 October 2021,,,random_68,,yes,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,411,102,309,95
+249897546,04 October 2021,,,random_69,,yes,,1,Ward 61,AZAD NAGAR PETROL PUMP,AZAD NAGAR PETROL PUMP,259,234,25,40
+249897555,04 October 2021,,,random_70,,yes,,1,Ward 61,AZAD NAGAR PETROL PUMP,AZAD NAGAR PETROL PUMP,192,121,71,40
+249897558,04 October 2021,,,random_71,,yes,,1,Ward 61,GREEN PARK,GREEN PARK,375,72,303,56
+249897561,04 October 2021,,,random_72,,yes,,1,Ward 61,AZAD NAGAR PETROL PUMP,AZAD NAGAR PETROL PUMP,202,179,23,31
+249897562,04 October 2021,,,random_73,,yes,,1,Ward 61,TARAPORE,TARAPORE,11,6,5,80
+249897563,04 October 2021,,,random_74,,yes,,1,Ward 61,GREEN PARK,GREEN PARK,460,306,154,17
+249897567,04 October 2021,,,random_75,,yes,,1,Ward 61,AZAD NAGAR PETROL PUMP,AZAD NAGAR PETROL PUMP,240,109,131,10
+249897570,04 October 2021,,,random_76,,yes,,1,Ward 61,GREEN PARK,GREEN PARK,140,81,59,2
+249897574,04 October 2021,,,random_77,,yes,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,107,76,31,90
+249897575,04 October 2021,,,random_78,,yes,,1,Ward 61,AZAD NAGAR PETROL PUMP,AZAD NAGAR PETROL PUMP,349,45,304,20
+249897576,04 October 2021,,,random_79,,yes,,1,Ward 61,TARAPORE,TARAPORE,400,284,116,97
+250492234,04 October 2021,,,random_80,,yes,,1,Ward 61,HEERA PANNA ROAD2,HEERA PANNA ROAD,73,14,59,68
+250492235,04 October 2021,,,random_81,,yes,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,342,184,158,76
+250492238,04 October 2021,,,random_82,,apartments,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,305,210,95,56
+294272982,04 October 2021,,,Shantivan Bldg no. 4-7,Off New Link Road,residential,,1,Ward 61,Behram  Baug 2,Behram  Baug,379,354,25,30
+294276588,04 October 2021,,,random_83,,yes,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,429,45,384,80
+294276613,04 October 2021,,,random_84,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,473,228,245,72
+294276614,04 October 2021,,,random_85,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,217,94,123,59
+294276615,04 October 2021,,,random_86,,yes,,1,Ward 61,TARAPORE,TARAPORE,196,81,115,5
+294276617,04 October 2021,,,random_87,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,62,14,48,27
+294276618,04 October 2021,,,random_88,,yes,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,488,322,166,78
+294276619,04 October 2021,,,random_89,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,464,49,415,85
+294276620,04 October 2021,,,random_90,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,410,347,63,82
+294276623,04 October 2021,,,random_91,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,414,307,107,95
+294276624,04 October 2021,,,random_92,,yes,,1,Ward 61,TARAPORE,TARAPORE,432,342,90,11
+294276627,04 October 2021,,,random_93,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,447,127,320,4
+294276628,04 October 2021,,,random_94,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,321,37,284,64
+352922203,04 October 2021,,,random_95,,yes,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,240,33,207,85
+352922204,04 October 2021,,,random_96,,yes,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,388,80,308,6
+352922214,04 October 2021,,,random_97,,yes,,1,Ward 61,AZAD NAGAR PETROL PUMP,AZAD NAGAR PETROL PUMP,227,148,79,13
+352937274,04 October 2021,,,Shantivan Bldg no. 1-3,Off New Link Road,apartments,,1,Ward 61,Behram  Baug 2,Behram  Baug,184,166,18,67
+352937294,04 October 2021,,,random_98,,yes,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,160,129,31,58
+352937296,04 October 2021,,,random_99,,yes,,1,Ward 61,Behram  Baug 1,Behram  Baug,483,383,100,68
+357305658,04 October 2021,,,random_100,,apartments,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,370,10,360,17
+357305671,04 October 2021,,,random_101,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,492,194,298,68
+357305680,04 October 2021,,,random_102,,yes,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,174,66,108,88
+357305681,04 October 2021,,,random_103,,yes,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,303,140,163,94
+357305683,04 October 2021,,,random_104,,apartments,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,236,74,162,85
+358508758,04 October 2021,,,random_105,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,10,0,10,83
+358508761,04 October 2021,,,random_106,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,123,53,70,55
+358822891,04 October 2021,,,random_107,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,266,137,129,46
+358822892,04 October 2021,,,Tarapore Towers,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,281,216,65,60
+358822894,04 October 2021,,,Tarapore Towers,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,89,17,72,35
+358822896,04 October 2021,,,Tarapore Towers,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,368,289,79,71
+358831990,04 October 2021,,,random_108,,yes,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,186,42,144,46
+358832004,04 October 2021,,,random_109,,yes,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,111,51,60,64
+358852089,04 October 2021,,,random_110,,apartments,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,155,48,107,78
+359269237,04 October 2021,,,random_111,,yes,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,251,164,87,41
+359269239,04 October 2021,,,random_112,,apartments,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,479,269,210,37
+359269240,04 October 2021,,,random_113,,yes,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,226,226,0,0
+359269241,04 October 2021,,,random_114,,yes,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,190,102,88,96
+359269244,04 October 2021,,,random_115,,yes,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,144,4,140,100
+417320262,04 October 2021,,,Oshiwara Police Station,,yes,,1,Ward 61,GREEN PARK,GREEN PARK,71,28,43,69
+844471187,04 October 2021,,,City International School,,school,,1,Ward 61,JBCN SCHOOL LANE1,JBCN SCHOOL LANE,298,21,277,10
+844474525,04 October 2021,,,Reliable Business Centre,,commercial,,1,Ward 61,JBCN SCHOOL LANE1,JBCN SCHOOL LANE,311,291,20,30
+986880185,04 October 2021,,,random_116,,apartments,,1,Ward 61,HEERA PANNA ROAD2,HEERA PANNA ROAD,80,56,24,99
+202061691,05 October 2021,,,"Transit Camp, Behram Baug",,commercial,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,414,269,145,97
+202516362,05 October 2021,,,random_5,,yes,,1,Ward 61,GREEN PARK,GREEN PARK,410,39,371,6
+202516364,05 October 2021,,,Heera Panna,,commercial,,1,Ward 61,GREEN PARK,GREEN PARK,449,225,224,9
+202555836,05 October 2021,,,Park Paradise,,yes,,1,Ward 61,Behram  Baug 1,Behram  Baug,314,83,231,86
+202555854,05 October 2021,,,Park View,,yes,,1,Ward 61,Behram  Baug 1,Behram  Baug,421,309,112,63
+227895886,05 October 2021,,,random_4,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,66,30,36,15
+227895887,05 October 2021,,,Evershine Greens,,apartments,,1,Ward 61,BMC ROAD,BMC ROAD,442,333,109,4
+227895889,05 October 2021,,,random_2,,apartments,,1,Ward 61,JBCN SCHOOL LANE1,JBCN SCHOOL LANE,407,365,42,30
+227895891,05 October 2021,,,random_1,,residential,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,13,5,8,73
+227895892,05 October 2021,,,random_3,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,206,62,144,22
+227895894,05 October 2021,,,random_6,,residential,,1,Ward 61,JBCN SCHOOL LANE1,JBCN SCHOOL LANE,411,212,199,25
+227895895,05 October 2021,,,random_7,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,83,53,30,21
+227895896,05 October 2021,,,random_8,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,312,29,283,84
+227895898,05 October 2021,,,random_9,,residential,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,27,7,20,63
+227895899,05 October 2021,,,random_11,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,5,0,5,29
+227895902,05 October 2021,,,Evershine Greens,,apartments,,1,Ward 61,BMC ROAD,BMC ROAD,304,101,203,1
+227895903,05 October 2021,,,random_10,,residential,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,246,237,9,90
+227895904,05 October 2021,,,random_13,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,323,138,185,78
+227895905,05 October 2021,,,random_12,,residential,,1,Ward 61,BMC ROAD,BMC ROAD,459,105,354,12
+227895908,05 October 2021,,,random_14,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,60,55,5,16
+227895909,05 October 2021,,,random_15,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,230,161,69,84
+227895910,05 October 2021,,,random_16,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,121,31,90,30
+227895911,05 October 2021,,,random_17,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,117,94,23,25
+227895912,05 October 2021,,,random_18,,residential,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,135,128,7,75
+227895914,05 October 2021,,,random_19,Off New Link Road,yes,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,46,11,35,97
+227895915,05 October 2021,,,Raigad Military School,,school,,1,Ward 61,BMC ROAD,BMC ROAD,295,158,137,19
+227895916,05 October 2021,,,random_20,,residential,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,317,94,223,22
+227895917,05 October 2021,,,random_21,,residential,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,294,99,195,49
+228031928,05 October 2021,,Building no. 29,Samruddhi CHS,Oshiwara Link Road,residential,,1,Ward 61,Behram  Baug 1,Behram  Baug,421,205,216,13
+228031929,05 October 2021,,,Oshiwara Basera,,residential,,1,Ward 61,Behram  Baug 1,Behram  Baug,151,98,53,36
+228031930,05 October 2021,,,East Side Apartments,,apartments,,1,Ward 61,Behram  Baug 1,Behram  Baug,227,41,186,22
+228031933,05 October 2021,,,Anand Vihar,,residential,,1,Ward 61,Behram  Baug 1,Behram  Baug,173,125,48,72
+249860327,05 October 2021,,,Meera C.H.S.,"Link Road Extension, Oshiwara, Andheri West",residential,,1,Ward 61,MEGA MALL 1,MEGA MALL,8,3,5,50
+249860328,05 October 2021,,,random_22,,yes,,1,Ward 61,Techweb centre,ANAND NAGAR,425,153,272,88
+249860330,05 October 2021,,,random_23,,yes,,1,Ward 61,Techweb centre,ANAND NAGAR,371,109,262,68
+249860331,05 October 2021,,,random_24,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,195,106,89,45
+249860335,05 October 2021,,,random_25,,yes,,1,Ward 61,Behram  Baug 2,Behram  Baug,413,247,166,11
+249860339,05 October 2021,,,Sanskar,,apartments,,1,Ward 61, Evershine Green,ROSHAN NAGAR,195,139,56,19
+249860342,05 October 2021,,,random_26,,yes,,1,Ward 61, Evershine Green,ROSHAN NAGAR,250,36,214,90
+249860343,05 October 2021,,,Tarapore Towers,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,134,44,90,5
+249860344,05 October 2021,,,random_27,,yes,,1,Ward 61,MEGA MALL 1,MEGA MALL,229,209,20,84
+249860345,05 October 2021,,,random_28,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,106,87,19,95
+249860353,05 October 2021,,,random_29,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,485,485,0,70
+249860355,05 October 2021,,,random_30,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,337,118,219,33
+249860360,05 October 2021,,,random_31,,yes,,1,Ward 61,Behram  Baug 2,Behram  Baug,28,12,16,39
+249860365,05 October 2021,,,random_32,,apartments,,1,Ward 61, Evershine Green,ROSHAN NAGAR,187,173,14,32
+249860366,05 October 2021,,,random_33,,yes,,1,Ward 61,MEGA MALL 1,MEGA MALL,171,72,99,70
+249860369,05 October 2021,,,random_34,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,156,51,105,15
+249860374,05 October 2021,,,random_35,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,255,26,229,14
+249860375,05 October 2021,,,random_36,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,133,49,84,50
+249860377,05 October 2021,,,random_37,,yes,,1,Ward 61,Behram  Baug 1,Behram  Baug,65,19,46,31
+249860383,05 October 2021,,,random_38,,apartments,,1,Ward 61, Evershine Green,ROSHAN NAGAR,218,56,162,26
+249860384,05 October 2021,,,Sargam,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,426,244,182,9
+249860386,05 October 2021,,,random_39,,apartments,,1,Ward 61,MEGA MALL 1,MEGA MALL,123,111,12,50
+249860389,05 October 2021,,flat no. 404,Marigold Apartments,Off New Link Road,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,238,57,181,21
+249860393,05 October 2021,,,random_40,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,92,0,92,60
+249860394,05 October 2021,,,Link Way,,yes,,1,Ward 61,Behram  Baug 2,Behram  Baug,300,200,100,30
+249860396,05 October 2021,,,random_41,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,125,36,89,100
+249860398,05 October 2021,,,random_42,,apartments,,1,Ward 61,MEGA MALL 1,MEGA MALL,259,124,135,83
+249860399,05 October 2021,,,random_43,,yes,,1,Ward 61,MEGA MALL 1,MEGA MALL,421,195,226,60
+249860402,05 October 2021,,,random_44,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,182,152,30,85
+249860408,05 October 2021,,,random_45,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,29,4,25,23
+249860410,05 October 2021,,,random_46,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,50,31,19,81
+249860412,05 October 2021,,,random_47,,apartments,,1,Ward 61,MEGA MALL 1,MEGA MALL,43,14,29,32
+249860415,05 October 2021,,,random_48,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,496,265,231,67
+249860418,05 October 2021,,,random_49,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,352,98,254,94
+249860421,05 October 2021,,,random_50,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,361,224,137,7
+249860424,05 October 2021,,,random_51,,yes,,1,Ward 61,Behram  Baug 2,Behram  Baug,79,42,37,47
+249860425,05 October 2021,,,random_52,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,346,297,49,9
+249860428,05 October 2021,,,random_53,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,125,100,25,59
+249860429,05 October 2021,,,random_54,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,224,142,82,65
+249860432,05 October 2021,,,Utsav,,apartments,,1,Ward 61, Evershine Green,ROSHAN NAGAR,66,13,53,36
+249860433,05 October 2021,,,random_55,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,19,13,6,21
+249860434,05 October 2021,,701,Garden View - Dr Kaushal Shah's Residence,Off New Link Rd,yes,,1,Ward 61,Behram  Baug 1,Behram  Baug,303,294,9,75
+249860438,05 October 2021,,,Rajrani Malhotra Vidyalaya,,school,,1,Ward 61,Behram  Baug 2,Behram  Baug,473,326,147,6
+249860442,05 October 2021,,,random_56,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,294,23,271,79
+249860444,05 October 2021,,,random_57,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,142,86,56,12
+249860449,05 October 2021,,,Rajnigandha,,apartments,,1,Ward 61, Evershine Green,ROSHAN NAGAR,68,51,17,80
+249860451,05 October 2021,,,random_58,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,297,266,31,88
+249860456,05 October 2021,,,random_59,,yes,,1,Ward 61,Behram  Baug 2,Behram  Baug,123,42,81,64
+249860462,05 October 2021,,,random_60,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,97,38,59,94
+249860466,05 October 2021,,,Kaveri,,apartments,,1,Ward 61,MEGA MALL 2,MEGA MALL,61,35,26,7
+249860469,05 October 2021,,,random_61,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,177,148,29,58
+249860471,05 October 2021,,,random_62,,yes,,1,Ward 61,Techweb centre,ANAND NAGAR,412,259,153,54
+249860500,05 October 2021,,,Tarapore Towers,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,318,216,102,5
+249864713,05 October 2021,,,random_63,,apartments,,1,Ward 61,Milliennium Court,ROSHAN NAGAR,169,5,164,1
+249897526,05 October 2021,,,random_64,,yes,,1,Ward 61,TARAPORE,TARAPORE,435,214,221,14
+249897534,05 October 2021,,,random_65,,yes,,1,Ward 61,TARAPORE,TARAPORE,329,0,329,95
+249897536,05 October 2021,,,random_66,,yes,,1,Ward 61,GREEN PARK,GREEN PARK,198,153,45,56
+249897537,05 October 2021,,,random_67,,yes,,1,Ward 61,GREEN PARK,GREEN PARK,85,19,66,45
+249897540,05 October 2021,,,random_68,,yes,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,371,178,193,51
+249897546,05 October 2021,,,random_69,,yes,,1,Ward 61,AZAD NAGAR PETROL PUMP,AZAD NAGAR PETROL PUMP,238,166,72,63
+249897555,05 October 2021,,,random_70,,yes,,1,Ward 61,AZAD NAGAR PETROL PUMP,AZAD NAGAR PETROL PUMP,266,143,123,44
+249897558,05 October 2021,,,random_71,,yes,,1,Ward 61,GREEN PARK,GREEN PARK,272,212,60,8
+249897561,05 October 2021,,,random_72,,yes,,1,Ward 61,AZAD NAGAR PETROL PUMP,AZAD NAGAR PETROL PUMP,152,36,116,86
+249897562,05 October 2021,,,random_73,,yes,,1,Ward 61,TARAPORE,TARAPORE,499,165,334,91
+249897563,05 October 2021,,,random_74,,yes,,1,Ward 61,GREEN PARK,GREEN PARK,259,234,25,48
+249897567,05 October 2021,,,random_75,,yes,,1,Ward 61,AZAD NAGAR PETROL PUMP,AZAD NAGAR PETROL PUMP,389,136,253,81
+249897570,05 October 2021,,,random_76,,yes,,1,Ward 61,GREEN PARK,GREEN PARK,138,123,15,62
+249897574,05 October 2021,,,random_77,,yes,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,436,353,83,64
+249897575,05 October 2021,,,random_78,,yes,,1,Ward 61,AZAD NAGAR PETROL PUMP,AZAD NAGAR PETROL PUMP,427,270,157,84
+249897576,05 October 2021,,,random_79,,yes,,1,Ward 61,TARAPORE,TARAPORE,382,207,175,6
+250492234,05 October 2021,,,random_80,,yes,,1,Ward 61,HEERA PANNA ROAD2,HEERA PANNA ROAD,138,8,130,0
+250492235,05 October 2021,,,random_81,,yes,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,463,3,460,5
+250492238,05 October 2021,,,random_82,,apartments,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,263,170,93,28
+294272982,05 October 2021,,,Shantivan Bldg no. 4-7,Off New Link Road,residential,,1,Ward 61,Behram  Baug 2,Behram  Baug,299,243,56,75
+294276588,05 October 2021,,,random_83,,yes,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,285,77,208,87
+294276613,05 October 2021,,,random_84,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,124,31,93,96
+294276614,05 October 2021,,,random_85,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,163,58,105,2
+294276615,05 October 2021,,,random_86,,yes,,1,Ward 61,TARAPORE,TARAPORE,55,20,35,62
+294276617,05 October 2021,,,random_87,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,131,111,20,24
+294276618,05 October 2021,,,random_88,,yes,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,110,33,77,2
+294276619,05 October 2021,,,random_89,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,267,24,243,70
+294276620,05 October 2021,,,random_90,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,211,80,131,88
+294276623,05 October 2021,,,random_91,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,284,103,181,75
+294276624,05 October 2021,,,random_92,,yes,,1,Ward 61,TARAPORE,TARAPORE,33,6,27,91
+294276627,05 October 2021,,,random_93,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,25,16,9,6
+294276628,05 October 2021,,,random_94,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,323,108,215,33
+352922203,05 October 2021,,,random_95,,yes,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,30,10,20,41
+352922204,05 October 2021,,,random_96,,yes,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,139,55,84,12
+352922214,05 October 2021,,,random_97,,yes,,1,Ward 61,AZAD NAGAR PETROL PUMP,AZAD NAGAR PETROL PUMP,406,56,350,86
+352937274,05 October 2021,,,Shantivan Bldg no. 1-3,Off New Link Road,apartments,,1,Ward 61,Behram  Baug 2,Behram  Baug,425,200,225,53
+352937294,05 October 2021,,,random_98,,yes,,1,Ward 61,JBCN SCHOOL LANE2,JBCN SCHOOL LANE,169,13,156,57
+352937296,05 October 2021,,,random_99,,yes,,1,Ward 61,Behram  Baug 1,Behram  Baug,493,83,410,34
+357305658,05 October 2021,,,random_100,,apartments,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,403,191,212,27
+357305671,05 October 2021,,,random_101,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,410,290,120,34
+357305680,05 October 2021,,,random_102,,yes,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,161,62,99,62
+357305681,05 October 2021,,,random_103,,yes,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,290,108,182,54
+357305683,05 October 2021,,,random_104,,apartments,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,273,259,14,35
+358508758,05 October 2021,,,random_105,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,432,336,96,0
+358508761,05 October 2021,,,random_106,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,486,76,410,61
+358822891,05 October 2021,,,random_107,,yes,,1,Ward 61,HEERA PANNA ROAD1,HEERA PANNA ROAD,174,133,41,68
+358822892,05 October 2021,,,Tarapore Towers,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,311,198,113,49
+358822894,05 October 2021,,,Tarapore Towers,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,39,11,28,51
+358822896,05 October 2021,,,Tarapore Towers,,apartments,,1,Ward 61,Daimond /Pearl,ANAND NAGAR,433,255,178,98
+358831990,05 October 2021,,,random_108,,yes,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,37,20,17,10
+358832004,05 October 2021,,,random_109,,yes,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 1,OSHIWARA MAHADA NEW LINK ROAD,305,12,293,47
+358852089,05 October 2021,,,random_110,,apartments,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,3,3,0,33
+359269237,05 October 2021,,,random_111,,yes,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,92,22,70,27
+359269239,05 October 2021,,,random_112,,apartments,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,65,40,25,35
+359269240,05 October 2021,,,random_113,,yes,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,255,2,253,38
+359269241,05 October 2021,,,random_114,,yes,,1,Ward 61,OSHIWARA MAHADA NEW LINK ROAD 2,OSHIWARA MAHADA NEW LINK ROAD,428,355,73,96
+359269244,05 October 2021,,,random_115,,yes,,1,Ward 61,OSHIWARA GARDEN,OSHIWARA GARDEN,83,52,31,58
+417320262,05 October 2021,,,Oshiwara Police Station,,yes,,1,Ward 61,GREEN PARK,GREEN PARK,58,15,43,27
+844471187,05 October 2021,,,City International School,,school,,1,Ward 61,JBCN SCHOOL LANE1,JBCN SCHOOL LANE,134,15,119,89
+844474525,05 October 2021,,,Reliable Business Centre,,commercial,,1,Ward 61,JBCN SCHOOL LANE1,JBCN SCHOOL LANE,253,89,164,25
+986880185,05 October 2021,,,random_116,,apartments,,1,Ward 61,HEERA PANNA ROAD2,HEERA PANNA ROAD,460,280,180,76
