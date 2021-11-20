@@ -23,11 +23,11 @@ dat={}
 dd1=[]
 dd2=[]
 
-ward_61 = json.load(open('ward61.geojson', 'r'))
-regions = json.load(open('region_ward61.geojson', 'r'))
+ward_61 = json.load(open('w61_reg.geojson', 'r'))
+regions = json.load(open('region_19nov.geojson', 'r'))
 
 
-dfd = pd.read_csv('ward61_dummy.csv')
+dfd = pd.read_csv('w61_data.csv')
 
 date_list=dfd['coll_date']
 date_list=pd.to_datetime(date_list)
@@ -61,89 +61,6 @@ for feature in ward_61["features"]:
 
 dfd["id"] = dfd["name"].apply(lambda x: building_id_map[x])
 i=0
-# for feature in regions["features"]:
-#     # feature["properties"]["oid"]=i
-#     # feature["id"] = feature["properties"]["id"]
-#     feature["id"] = i
-#     i+=1
-#     reg_map[feature["properties"]["region_nam"]] = feature["id"]
-#
-# dfr["id"] = dfr["region_nam"].apply(lambda x: reg_map[x])
-
-#print(dfd)
-
-#function to create marks on date slider
-
-
-# def slider_dic():
-#     dat={}
-#     d = date_list['Date'].unique()
-#     d.sort()
-#     j=0
-#     for i in d:
-#         dat[j] = i
-#         j+=1
-#     return dat
-
-#marks dictionary for date slider
-
-# dat=slider_dic()
-
-# layout.append(dbc.Row(dbc.Col([html.Br(),html.H1("DASHBOARD"),html.Br()],
-#                         width={'size': 8, 'offset': 5},
-#                         ),
-#                 ))
-# layout.append(dbc.Row(dbc.Col(html.P('Select Date'),
-#                               width={'size': 6},)))
-# layout.append(dbc.Row(dbc.Col(html.Div([
-#     dcc.Slider(
-#         id='my-slider',
-#         min=0,
-#         max=len(dat)-1,
-#         step=1,
-#         marks=dat,
-#         value=0,
-#     ),
-#     html.Div(id='slider-output-container',children=["date selected is: "+dat[0]])
-# ]),
-# width=10), justify="center"
-# ))
-
-#adding dropdowns to layout
-
-# for i in range(0,len(col)):
-#     dd1.append(dbc.Col(
-#         html.H5(col[i]),
-#         width=3
-#     ))
-# layout.append(dbc.Row(dd1))
-###UNCOMMENT FROM HERE IF NEEDED######
-# dd2.append(dbc.Col(html.Div([
-#     html.H5(col[0]),
-#     dcc.Dropdown(
-#       id=col[0],
-#       options=[{"label":x,"value":x} for x in df[col[0]].unique()]
-#
-#  )]),
-#       width=3,
-#       xs=10, sm=6, md=6, lg=3, xl=3,
-#     ),
-#
-# )
-#
-# for i in range(1,len(col)):
-#     dd2.append(dbc.Col(html.Div([
-#         html.H5(col[i]),
-#         dcc.Dropdown(
-#         id=col[i],
-#         options=[]
-#     ),
-#         ]),
-#     width=3,
-#     xs=10, sm=6, md=6, lg=3, xl=3,),
-#
-#
-#     )
 dd2.append(html.Div([
                html.H6("         "+"    Select Waste Type:"),
                dcc.RadioItems(
@@ -179,41 +96,13 @@ for i in range(1,len(col)):
         options=[]
     ),
         ]))
-    # width=3,
-    # xs=10, sm=6, md=6, lg=3, xl=3,),
-#
-# layout.append(dbc.Row([dbc.Col(html.Div(
-#     [
-#      html.H5("Select Waste Type:"),
-#      dcc.RadioItems(
-#          id='waste_type',
-#          options=[{'value': x, 'label': x}
-#                   for x in radio],
-#          value=radio[0],
-#          labelStyle={'display': 'inline-block'}
-#      ),
-#      html.H5("Select Area:"),
-#      dcc.RadioItems(
-#          id='area',
-#          options=[{'value': x, 'label': "    "+x+"   "}
-#                   for x in col],
-#          value=col[2],
-#          labelStyle={'display': 'inline-block'}
-#      ),
-#
-#
-#      ]),
-#     #add width here
-#     width={'size': 3, 'offset': 0},
-# ),
-#     dbc.Col([
-#
-#         dcc.Graph(id='choropleth', figure={})
-#
-#     ])
-#     ]))
 
-layout.append(dcc.Tab(label='MAP', children=[dbc.Row([dbc.Col(dbc.Card(dd2,body=True, color="light"
+layout.append(dcc.Tab(label='MAP', children=[
+    dbc.Row([dcc.ConfirmDialog(
+            id='missing_data',
+            message='',
+    ),]),
+    dbc.Row([dbc.Col(dbc.Card(dd2,body=True, color="light"
                               ),width={'size': 4, 'offset': 0},xs=10, sm=10, md=10, lg=4, xl=4,),
                dbc.Col([
 
@@ -223,74 +112,6 @@ layout.append(dcc.Tab(label='MAP', children=[dbc.Row([dbc.Col(dbc.Card(dd2,body=
                        ])]))
 #########GRAPH STARTS HERE##############
 
-
-# layout.append(dbc.Row(dbc.Col([
-#                         html.Br(),
-#                         html.Hr(),
-# ],
-#                         width={'size': 12, 'offset': 0},
-#                         ),
-#                 ))
-############# GRAPH STARTS HERE###########################
-# layout.append(dbc.Row(dbc.Col([
-#
-#                         html.Br(),
-#                         #html.Hr(),
-#                         html.H2("DAILY WASTE COLLECTION"),
-#                         html.Br(),
-#                             ],
-#                         width={'size': 7, 'offset': 4},
-#                         ),
-#                 ))
-
-# adding radio buttons
-
-# layout.append(dbc.Row(dbc.Col((html.P("Select Waste Type:"))
-#                               ,width={'size': 8, 'offset': 1})))
-# layout.append(dbc.Row([
-#     dbc.Col([
-#
-#     dcc.RadioItems(
-#         id='waste_type',
-#         options=[{'value': x, 'label': x}
-#                  for x in radio],
-#         value=radio[0],
-#         labelStyle={'display': 'inline-block'}
-#     )
-#     ], width={'size': 8, 'offset': 1})
-# ]
-#
-# ))
-#
-# layout.append(dbc.Row(dbc.Col((html.P("Select Area:"))
-#                               ,width={'size': 8, 'offset': 1})))
-# layout.append(dbc.Row([
-#     dbc.Col([
-#
-#     dcc.RadioItems(
-#         id='area',
-#         options=[{'value': x, 'label': x}
-#                  for x in col],
-#         value=col[2],
-#         labelStyle={'display': 'inline-block'}
-#     )
-#     ], width={'size': 8, 'offset': 1})
-# ]
-#
-# ))
-
-# layout.append(dbc.Row([
-#     dbc.Col([
-#
-#         dcc.Graph(id='choropleth',figure={})
-#
-#     ])
-# ]))
-
-
-# rad_graph=[]
-# for i in range(2,len(col)):
-#     rad_graph.append(col[i])
 layout.append(dcc.Tab(label='GRAPH',children=[dbc.Row(dbc.Col([
 
                         html.Br(),
@@ -353,21 +174,16 @@ layout.append(dcc.Tab(label='GRAPH',children=[dbc.Row(dbc.Col([
 
     ],body=True, color="light")
     ],width={'size': 4, 'offset': 0},xs=10, sm=10, md=10, lg=4, xl=4,),
-    dbc.Col(
-        dcc.Graph(id="line-chart"),
+    dbc.Col([dbc.Card(
+        dcc.Graph(id="line-chart"),body=True, color="light")],
     width={'size': 8, 'offset': 0},xs=10, sm=10, md=10, lg=8, xl=8,)
-              ])]))
-# layout.append(html.P(col[0]))           #topmost dropdown
-# layout.append(dcc.Dropdown(
-#     id=col[0],
-#     options=[{"label":x,"value":x} for x in df[col[0]].unique()]
-# ))
-# for i in range(1,len(col)):             #remaining dropdowns
-#     layout.append(html.P(col[i]))
-#     layout.append(dcc.Dropdown(
-#         id=col[i],
-#         options=[]
-#     ))
+              ]),
+    dbc.Row([html.Br(),
+        dbc.Col([dbc.Card(dcc.Graph(id="pie-chart"),body=True, color="dark") ],width={'size': 8, 'offset': 4}),
+
+       # dbc.Col([dbc.Card(dcc.Graph(id="piechart"),body=True, color="dark" )],width={'size': 6, 'offset': 0},xs=10, sm=10, md=6, lg=6, xl=6)
+    ])
+    ]))
 
 #input list for app callback
 
@@ -406,29 +222,8 @@ def drop(*args):
     return tuple(op)
 
 
-# @app.callback(
-#     Output('slider-output-container','children'),
-#     Input('my-slider','value')
-# )
-# def date_selected(date):
-#     return "date selected is: "+str(dat[date])
+#creating interactive map
 
-
-
-# @app.callback(
-#     Output('choropleth','figure'),
-#     [Input('waste_type','value'),
-#      ]
-# )
-# def show_map(val):
-#     fig = px.choropleth(
-#         dfd,
-#         locations="id",
-#         geojson=ward_61,
-#         color=val,
-#     )
-#     fig.update_geos(fitbounds="locations", visible=False)
-#     return fig
 data=dfd
 geo=regions
 ip=[]
@@ -483,7 +278,7 @@ def show_map(*args):
             # feature["id"] = feature["properties"]["osm_id"]
             feature["id"] = i
             i += 1
-            map[feature["properties"]["region_nam"]] = feature["id"]
+            map[feature["properties"]["Name"]] = feature["id"]
 
         data["id"] = data["region"].apply(lambda x: map[x])
     elif arg[1]=='Region':
@@ -597,13 +392,10 @@ def draw_graph(col,val,wt,sd,ed):
    # dft = dft.set_index('col_date')
     v=str(val)
     date=[]
-    # sd=datetime.date(sd)
-    # ed=datetime.date(ed)
+
     print(sd)
     print(ed)
 
-    # for i in range(sd,ed):
-    #     date.append(i)
     dft = dft.groupby([v.lower(),'coll_date'], as_index=False)[wt].sum()
     dft = dft[dft[v.lower()].isin(col)]
     # dft = dft[dft['coll_date'].isin(date)]
@@ -620,6 +412,63 @@ def draw_graph(col,val,wt,sd,ed):
 )
     return fig
 
+# creating pie charts
+
+@app.callback(
+    Output("pie-chart", "figure"),
+
+    [
+        Input('graph_op','value'),
+        Input('graph_radio','value'),
+       # Input('waste_t','value'),
+        Input('my-date-picker-range','start_date'),
+        Input('my-date-picker-range','end_date')
+    ]
+)
+def pi_chart(sel_val,column,sd,ed):
+    dfp=dfd.copy()
+    dfp = dfp[dfp[column.lower()].isin(sel_val)]
+    num_house=dfp['num_households_premises'].sum()
+    num_shop=dfp['num_shops_premises'].sum()
+    pop=num_house*4+num_shop
+    fields=['waste_type','quantity','per_capita_waste','qty']
+    rows=[]
+    radi=radio.copy()
+    radi.pop(0)
+    for i in radi:
+        l=[]
+        l.append(i)
+        l.append(dfp[i].sum())
+        pc=l[1]/pop
+        l.append('waste PC='+str(round(pc,2)))
+        l.append('qty='+str(l[1])+' kg')
+        rows.append(l)
+    dataframe = pd.DataFrame(rows, columns=fields)
+    fig = px.pie(dataframe, values='quantity', names='waste_type', title='WASTE PRODUCTION', )
+    fig.update_traces(text=dataframe['per_capita_waste'],textposition='inside',legendgrouptitle_text='Waste Type', textinfo='percent+label+value+text')
+ #   figure = px.pie(dataframe, values='per_cap', names='waste_type',title='PER CAPITA WASTE PRODUCTION')
+    return fig
+
+
+@app.callback([Output('missing_data', 'displayed'),
+              Output('missing_data','message')],
+             [ Input('area', 'value'),
+               Input(col[len(col)-1],'value'),
+               Input(col[len(col)-2],'value')
+               ]
+              )
+def display_confirm(rb,v1,v2):
+    message=''
+    disp=False
+    if rb == col[len(col)-1]:
+        if v1==None:
+            message='Please select a ' + str(col[len(col)-1]) + ' from dropdown'
+            disp=True
+    if rb == col[len(col)-2]:
+        if v2==None:
+            message='Please select a ' + str(col[len(col)-2]) + ' from dropdown'
+            disp=True
+    return disp,message
 
 if __name__ == "__main__":
     app.run_server(debug=True)
