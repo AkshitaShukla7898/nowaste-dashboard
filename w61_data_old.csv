@@ -1,0 +1,736 @@
+osm_id,coll_date,num_households_premises,num_shops_premises,name,population,building_type,type_waste_generator,osmid,ward,building_cluster,region,total waste,dry waste,wet waste,hazardous waste
+202061691,01-Oct-21,17,31,"Transit Camp, Behram Baug",,commercial,,1,Ward 61,ANAND NAGAR1,ANAND NAGAR,371,299,72,2
+202516362,01-Oct-21,87,45,random_5,,yes,,1,Ward 61,GREEN PARK,Heera Panna,243,205,38,41
+202516364,01-Oct-21,14,26,Heera Panna,,commercial,,1,Ward 61,GREEN PARK,Heera Panna,142,52,90,56
+202555836,01-Oct-21,24,34,Park Paradise,,yes,,1,Ward 61,Walawalkar1,Walawalkar,146,21,125,88
+202555854,01-Oct-21,88,34,Park View,,yes,,1,Ward 61,Walawalkar1,Walawalkar,11,11,0,27
+227895886,01-Oct-21,54,5,random_4,,residential,,1,Ward 61,unk11,unknown_1,144,114,30,11
+227895887,01-Oct-21,29,8,Evershine Greens,,apartments,,1,Ward 61,unk1,unknown_4,317,32,285,97
+227895889,01-Oct-21,31,43,random_2,,apartments,,1,Ward 61,JBCN SCHOOL LANE1,Serenity,17,3,14,9
+227895891,01-Oct-21,8,14,random_1,,residential,,1,Ward 61,unk1,unknown_4,412,236,176,71
+227895892,01-Oct-21,45,28,random_3,,residential,,1,Ward 61,unk11,unknown_1,148,11,137,67
+227895894,01-Oct-21,86,4,random_6,,residential,,1,Ward 61,JBCN SCHOOL LANE1,Serenity,184,153,31,82
+227895895,01-Oct-21,90,29,random_7,,residential,,1,Ward 61,unk11,unknown_1,496,187,309,49
+227895896,01-Oct-21,14,47,random_8,,residential,,1,Ward 61,unk11,unknown_1,341,91,250,55
+227895898,01-Oct-21,2,46,random_9,,residential,,1,Ward 61,JBCN SCHOOL LANE2,Serenity,348,88,260,59
+227895899,01-Oct-21,1,40,random_11,,residential,,1,Ward 61,unk11,unknown_1,335,99,236,50
+227895902,01-Oct-21,59,32,Evershine Greens,,apartments,,1,Ward 61,unk1,unknown_4,282,136,146,33
+227895903,01-Oct-21,9,33,random_10,,residential,,1,Ward 61,JBCN SCHOOL LANE2,Serenity,148,147,1,94
+227895904,01-Oct-21,48,34,random_13,,residential,,1,Ward 61,unk11,unknown_1,205,20,185,80
+227895905,01-Oct-21,82,31,random_12,,residential,,1,Ward 61,unk1,unknown_4,225,35,190,66
+227895908,01-Oct-21,16,18,random_14,,residential,,1,Ward 61,unk11,unknown_1,392,37,355,11
+227895909,01-Oct-21,60,23,random_15,,residential,,1,Ward 61,unk11,unknown_1,445,36,409,89
+227895910,01-Oct-21,99,2,random_16,,residential,,1,Ward 61,unk11,unknown_1,373,89,284,79
+227895911,01-Oct-21,31,39,random_17,,residential,,1,Ward 61,unk11,unknown_1,358,338,20,99
+227895912,01-Oct-21,48,28,random_18,,residential,,1,Ward 61,unk11,unknown_1,120,57,63,32
+227895914,01-Oct-21,25,47,random_19,Off New Link Road,yes,,1,Ward 61,ANAND NAGAR1,ANAND NAGAR,221,12,209,86
+227895915,01-Oct-21,87,10,Raigad Military School,,school,,1,Ward 61,unk1,unknown_4,468,204,264,52
+227895916,01-Oct-21,74,50,random_20,,residential,,1,Ward 61,JBCN SCHOOL LANE2,Serenity,355,121,234,50
+227895917,01-Oct-21,86,26,random_21,,residential,,1,Ward 61,JBCN SCHOOL LANE2,Serenity,455,346,109,57
+228031928,01-Oct-21,93,17,Samruddhi CHS,Oshiwara Link Road,residential,,1,Ward 61,Walawalkar1,Walawalkar,141,98,43,84
+228031929,01-Oct-21,86,30,Oshiwara Basera,,residential,,1,Ward 61,Walawalkar1,Walawalkar,439,243,196,76
+228031930,01-Oct-21,36,18,East Side Apartments,,apartments,,1,Ward 61,Walawalkar1,Walawalkar,358,211,147,7
+228031933,01-Oct-21,51,49,Anand Vihar,,residential,,1,Ward 61,Walawalkar1,Walawalkar,274,141,133,53
+249860327,01-Oct-21,56,5,Meera C.H.S.,"Link Road Extension, Oshiwara, Andheri West",residential,,1,Ward 61,MEGA MALL 1,unknown_3,17,14,3,78
+249860328,01-Oct-21,75,31,random_22,,yes,,1,Ward 61,Techweb centre,Tarapore Garden,5,4,1,93
+249860330,01-Oct-21,100,4,random_23,,yes,,1,Ward 61,Techweb centre,Tarapore Garden,61,12,49,40
+249860331,01-Oct-21,91,48,random_24,,apartments,,1,Ward 61,Daimond /Pearl,Tarapore Towers,28,5,23,49
+249860335,01-Oct-21,17,31,random_25,,yes,,1,Ward 61,Walawalkar2,Walawalkar,424,108,316,22
+249860339,01-Oct-21,44,13,Sanskar,,apartments,,1,Ward 61, Evershine Green,maheshwari chowk,405,37,368,86
+249860342,01-Oct-21,73,26,random_26,,yes,,1,Ward 61, Evershine Green,maheshwari chowk,292,175,117,74
+249860343,01-Oct-21,45,8,Tarapore Towers,,apartments,,1,Ward 61,Daimond /Pearl,Tarapore Towers,245,206,39,71
+249860344,01-Oct-21,21,17,random_27,,yes,,1,Ward 61,MEGA MALL 1,unknown_3,115,73,42,83
+249860345,01-Oct-21,26,11,random_28,,apartments,,1,Ward 61,MEGA MALL 2,unknown_3,458,133,325,90
+249860353,01-Oct-21,50,35,random_29,,apartments,,1,Ward 61,Milliennium Court,maheshwari chowk,93,12,81,91
+249860355,01-Oct-21,89,37,random_30,,apartments,,1,Ward 61,Daimond /Pearl,Tarapore Towers,231,98,133,64
+249860360,01-Oct-21,21,37,random_31,,yes,,1,Ward 61,Walawalkar2,Walawalkar,411,283,128,39
+249860365,01-Oct-21,64,11,random_32,,apartments,,1,Ward 61, Evershine Green,maheshwari chowk,117,19,98,52
+249860366,01-Oct-21,34,21,random_33,,yes,,1,Ward 61,MEGA MALL 1,unknown_3,147,71,76,69
+249860369,01-Oct-21,17,37,random_34,,apartments,,1,Ward 61,MEGA MALL 2,unknown_3,480,246,234,79
+249860374,01-Oct-21,19,1,random_35,,apartments,,1,Ward 61,Daimond /Pearl,Tarapore Towers,335,243,92,100
+249860375,01-Oct-21,37,27,random_36,,apartments,,1,Ward 61,Milliennium Court,maheshwari chowk,231,137,94,90
+249860377,01-Oct-21,36,42,random_37,,yes,,1,Ward 61,Walawalkar1,Walawalkar,88,71,17,67
+249860383,01-Oct-21,33,38,random_38,,apartments,,1,Ward 61, Evershine Green,maheshwari chowk,364,26,338,53
+249860384,01-Oct-21,19,3,Sargam,,apartments,,1,Ward 61,MEGA MALL 2,unknown_3,126,22,104,77
+249860386,01-Oct-21,100,10,random_39,,apartments,,1,Ward 61,MEGA MALL 1,unknown_3,304,270,34,73
+249860389,01-Oct-21,73,17,Marigold Apartments,Off New Link Road,apartments,,1,Ward 61,Daimond /Pearl,Tarapore Towers,393,18,375,99
+249860393,01-Oct-21,13,44,random_40,,apartments,,1,Ward 61,Milliennium Court,maheshwari chowk,226,12,214,48
+249860394,01-Oct-21,72,50,Link Way,,yes,,1,Ward 61,Walawalkar2,Walawalkar,457,453,4,73
+249860396,01-Oct-21,43,4,random_41,,apartments,,1,Ward 61,MEGA MALL 2,unknown_3,83,43,40,93
+249860398,01-Oct-21,77,40,random_42,,apartments,,1,Ward 61,MEGA MALL 1,unknown_3,309,5,304,60
+249860399,01-Oct-21,43,15,random_43,,yes,,1,Ward 61,MEGA MALL 1,unknown_3,245,208,37,39
+249860402,01-Oct-21,5,1,random_44,,apartments,,1,Ward 61,Daimond /Pearl,Tarapore Towers,188,83,105,52
+249860408,01-Oct-21,63,49,random_45,,apartments,,1,Ward 61,Milliennium Court,maheshwari chowk,25,6,19,61
+249860410,01-Oct-21,86,18,random_46,,apartments,,1,Ward 61,MEGA MALL 2,unknown_3,92,92,0,98
+249860412,01-Oct-21,67,31,random_47,,apartments,,1,Ward 61,MEGA MALL 1,unknown_3,306,190,116,48
+249860415,01-Oct-21,98,6,random_48,,apartments,,1,Ward 61,Daimond /Pearl,Tarapore Towers,22,16,6,71
+249860418,01-Oct-21,47,25,random_49,,apartments,,1,Ward 61,MEGA MALL 2,unknown_3,347,307,40,30
+249860421,01-Oct-21,1,46,random_50,,apartments,,1,Ward 61,Daimond /Pearl,Tarapore Towers,490,335,155,12
+249860424,01-Oct-21,75,31,random_51,,yes,,1,Ward 61,Walawalkar2,Walawalkar,52,51,1,23
+249860425,01-Oct-21,96,37,random_52,,apartments,,1,Ward 61,Daimond /Pearl,Tarapore Towers,33,28,5,61
+249860428,01-Oct-21,68,45,random_53,,apartments,,1,Ward 61,MEGA MALL 2,unknown_3,476,419,57,92
+249860429,01-Oct-21,69,42,random_54,,apartments,,1,Ward 61,MEGA MALL 2,unknown_3,395,90,305,89
+249860432,01-Oct-21,64,25,Utsav,,apartments,,1,Ward 61, Evershine Green,maheshwari chowk,35,23,12,19
+249860433,01-Oct-21,71,33,random_55,,apartments,,1,Ward 61,Daimond /Pearl,Tarapore Towers,437,3,434,36
+249860434,01-Oct-21,55,32,Garden View - Dr Kaushal Shah's Residence,Off New Link Rd,yes,,1,Ward 61,Walawalkar1,Walawalkar,454,350,104,51
+249860438,01-Oct-21,51,14,Rajrani Malhotra Vidyalaya,,school,,1,Ward 61,Walawalkar2,Walawalkar,79,7,72,57
+249860442,01-Oct-21,85,38,random_56,,apartments,,1,Ward 61,Milliennium Court,maheshwari chowk,264,222,42,60
+249860444,01-Oct-21,89,30,random_57,,apartments,,1,Ward 61,MEGA MALL 2,unknown_3,12,1,11,4
+249860449,01-Oct-21,41,50,Rajnigandha,,apartments,,1,Ward 61, Evershine Green,maheshwari chowk,416,7,409,24
+249860451,01-Oct-21,27,32,random_58,,apartments,,1,Ward 61,Daimond /Pearl,Tarapore Towers,472,440,32,53
+249860456,01-Oct-21,95,25,random_59,,yes,,1,Ward 61,Walawalkar2,Walawalkar,435,328,107,83
+249860462,01-Oct-21,11,37,random_60,,apartments,,1,Ward 61,Milliennium Court,maheshwari chowk,54,3,51,99
+249860466,01-Oct-21,92,6,Kaveri,,apartments,,1,Ward 61,MEGA MALL 2,unknown_3,446,129,317,57
+249860469,01-Oct-21,81,33,random_61,,apartments,,1,Ward 61,Milliennium Court,maheshwari chowk,0,0,0,92
+249860471,01-Oct-21,20,5,random_62,,yes,,1,Ward 61,Techweb centre,Tarapore Garden,61,59,2,74
+249860500,01-Oct-21,25,42,Tarapore Towers,,apartments,,1,Ward 61,Daimond /Pearl,Tarapore Towers,36,6,30,42
+249864713,01-Oct-21,57,5,random_63,,apartments,,1,Ward 61,Milliennium Court,maheshwari chowk,103,69,34,80
+249897526,01-Oct-21,27,15,random_64,,yes,,1,Ward 61,ANAND NAGAR2,ANAND NAGAR,77,25,52,19
+249897534,01-Oct-21,44,21,random_65,,yes,,1,Ward 61,ANAND NAGAR2,ANAND NAGAR,336,327,9,56
+249897536,01-Oct-21,52,44,random_66,,yes,,1,Ward 61,GREEN PARK,Heera Panna,293,227,66,65
+249897537,01-Oct-21,32,34,random_67,,yes,,1,Ward 61,GREEN PARK,Heera Panna,181,101,80,71
+249897540,01-Oct-21,12,20,random_68,,yes,,1,Ward 61,ANAND NAGAR1,ANAND NAGAR,131,120,11,51
+249897546,01-Oct-21,3,9,random_69,,yes,,1,Ward 61,ANAND NAGAR2,ANAND NAGAR,396,108,288,76
+249897555,01-Oct-21,5,16,random_70,,yes,,1,Ward 61,ANAND NAGAR2,ANAND NAGAR,284,47,237,73
+249897558,01-Oct-21,11,40,random_71,,yes,,1,Ward 61,GREEN PARK,Heera Panna,162,142,20,71
+249897561,01-Oct-21,91,50,random_72,,yes,,1,Ward 61,ANAND NAGAR2,ANAND NAGAR,313,87,226,43
+249897562,01-Oct-21,2,19,random_73,,yes,,1,Ward 61,ANAND NAGAR2,ANAND NAGAR,357,97,260,47
+249897563,01-Oct-21,73,23,random_74,,yes,,1,Ward 61,GREEN PARK,Heera Panna,158,93,65,48
+249897567,01-Oct-21,63,4,random_75,,yes,,1,Ward 61,ANAND NAGAR2,ANAND NAGAR,417,102,315,61
+249897570,01-Oct-21,98,41,random_76,,yes,,1,Ward 61,GREEN PARK,Heera Panna,79,24,55,92
+249897574,01-Oct-21,64,14,random_77,,yes,,1,Ward 61,ANAND NAGAR1,ANAND NAGAR,165,159,6,1
+249897575,01-Oct-21,65,13,random_78,,yes,,1,Ward 61,ANAND NAGAR2,ANAND NAGAR,262,218,44,6
+249897576,01-Oct-21,7,42,random_79,,yes,,1,Ward 61,ANAND NAGAR2,ANAND NAGAR,461,234,227,28
+250492234,01-Oct-21,46,12,random_80,,yes,,1,Ward 61,unk11,unknown_1,262,4,258,72
+250492235,01-Oct-21,76,31,random_81,,yes,,1,Ward 61,unk11,unknown_1,184,128,56,81
+250492238,01-Oct-21,25,9,random_82,,apartments,,1,Ward 61,unk11,unknown_1,81,73,8,92
+294272982,01-Oct-21,10,3,Shantivan Bldg no. 4-7,Off New Link Road,residential,,1,Ward 61,Walawalkar2,Walawalkar,337,163,174,19
+294276588,01-Oct-21,77,45,random_83,,yes,,1,Ward 61,unk11,unknown_1,222,83,139,87
+294276613,01-Oct-21,31,4,random_84,,yes,,1,Ward 61,unk22,unknown_2,306,302,4,38
+294276614,01-Oct-21,18,44,random_85,,yes,,1,Ward 61,unk22,unknown_2,445,270,175,56
+294276615,01-Oct-21,80,21,random_86,,yes,,1,Ward 61,BMC1,BMC colony,390,200,190,63
+294276617,01-Oct-21,11,31,random_87,,yes,,1,Ward 61,unk2,unknown_2,84,11,73,21
+294276618,01-Oct-21,0,4,random_88,,yes,,1,Ward 61,unk11,unknown_1,476,189,287,38
+294276619,01-Oct-21,55,32,random_89,,yes,,1,Ward 61,unk22,unknown_2,286,10,276,23
+294276620,01-Oct-21,30,38,random_90,,yes,,1,Ward 61,unk22,unknown_2,207,73,134,80
+294276623,01-Oct-21,62,10,random_91,,yes,,1,Ward 61,unk22,unknown_2,342,64,278,74
+294276624,01-Oct-21,26,30,random_92,,yes,,1,Ward 61,BMC1,BMC colony,392,385,7,30
+294276627,01-Oct-21,76,23,random_93,,yes,,1,Ward 61,unk2,unknown_2,425,358,67,18
+294276628,01-Oct-21,21,15,random_94,,yes,,1,Ward 61,unk22,unknown_2,488,27,461,11
+352922203,01-Oct-21,12,18,random_95,,yes,,1,Ward 61,JBCN SCHOOL LANE2,Serenity,312,295,17,37
+352922204,01-Oct-21,16,31,random_96,,yes,,1,Ward 61,JBCN SCHOOL LANE2,Serenity,466,346,120,70
+352922214,01-Oct-21,47,9,random_97,,yes,,1,Ward 61,ANAND NAGAR2,ANAND NAGAR,413,380,33,41
+352937274,01-Oct-21,22,22,Shantivan Bldg no. 1-3,Off New Link Road,apartments,,1,Ward 61,Walawalkar2,Walawalkar,285,106,179,87
+352937294,01-Oct-21,95,22,random_98,,yes,,1,Ward 61,ANAND NAGAR1,ANAND NAGAR,135,60,75,84
+352937296,01-Oct-21,57,29,random_99,,yes,,1,Ward 61,Walawalkar1,Walawalkar,93,69,24,65
+357305658,01-Oct-21,1,36,random_100,,apartments,,1,Ward 61,unk2,unknown_2,499,199,300,35
+357305671,01-Oct-21,91,20,random_101,,yes,,1,Ward 61,unk2,unknown_2,230,83,147,76
+357305680,01-Oct-21,3,17,random_102,,yes,,1,Ward 61,Behram Baug,Behram Baug,484,274,210,14
+357305681,01-Oct-21,4,2,random_103,,yes,,1,Ward 61,unk11,unknown_1,454,118,336,99
+357305683,01-Oct-21,11,25,random_104,,apartments,,1,Ward 61,unk11,unknown_1,169,69,100,43
+358508758,01-Oct-21,16,25,random_105,,yes,,1,Ward 61,unk22,unknown_2,98,51,47,93
+358508761,01-Oct-21,92,36,random_106,,yes,,1,Ward 61,unk2,unknown_2,171,68,103,57
+358822891,01-Oct-21,38,32,random_107,,yes,,1,Ward 61,unk2,unknown_2,42,22,20,54
+358822892,01-Oct-21,28,22,Tarapore Towers,,apartments,,1,Ward 61,Daimond /Pearl,Tarapore Towers,362,6,356,4
+358822894,01-Oct-21,24,36,Tarapore Towers,,apartments,,1,Ward 61,Daimond /Pearl,Tarapore Towers,462,448,14,40
+358822896,01-Oct-21,47,45,Tarapore Towers,,apartments,,1,Ward 61,Daimond /Pearl,Tarapore Towers,407,205,202,69
+358831990,01-Oct-21,40,32,random_108,,yes,,1,Ward 61,unk11,unknown_1,261,220,41,45
+358832004,01-Oct-21,94,0,random_109,,yes,,1,Ward 61,unk11,unknown_1,364,98,266,64
+358852089,01-Oct-21,56,26,random_110,,apartments,,1,Ward 61,unk11,unknown_1,237,145,92,13
+359269237,01-Oct-21,91,20,random_111,,yes,,1,Ward 61,ANAND NAGAR1,ANAND NAGAR,290,169,121,91
+359269239,01-Oct-21,40,49,random_112,,apartments,,1,Ward 61,unk11,unknown_1,385,169,216,12
+359269240,01-Oct-21,9,46,random_113,,yes,,1,Ward 61,Behram Baug,Behram Baug,444,215,229,72
+359269241,01-Oct-21,74,19,random_114,,yes,,1,Ward 61,unk11,unknown_1,313,153,160,90
+359269244,01-Oct-21,16,11,random_115,,yes,,1,Ward 61,Behram Baug,Behram Baug,181,160,21,75
+417320262,01-Oct-21,88,28,Oshiwara Police Station,,yes,,1,Ward 61,GREEN PARK,Heera Panna,422,277,145,1
+844471187,01-Oct-21,34,12,City International School,,school,,1,Ward 61,JBCN SCHOOL LANE1,Serenity,452,69,383,49
+844474525,01-Oct-21,15,27,Reliable Business Centre,,commercial,,1,Ward 61,JBCN SCHOOL LANE1,Serenity,383,83,300,7
+986880185,01-Oct-21,11,20,random_116,,apartments,,1,Ward 61,unk2,unknown_2,340,316,24,20
+986880185,02-Oct-21,55,8,"Transit Camp, Behram Baug",,commercial,,,Ward 61,ANAND NAGAR1,ANAND NAGAR,60,40,20,51
+986880185,02-Oct-21,100,35,random_5,,yes,,,Ward 61,GREEN PARK,Heera Panna,294,258,36,84
+986880185,02-Oct-21,37,32,Heera Panna,,commercial,,,Ward 61,GREEN PARK,Heera Panna,175,80,95,70
+986880185,02-Oct-21,5,46,Park Paradise,,yes,,,Ward 61,Walawalkar1,Walawalkar,293,130,163,15
+986880185,02-Oct-21,79,24,Park View,,yes,,,Ward 61,Walawalkar1,Walawalkar,131,15,116,51
+986880185,02-Oct-21,100,1,random_4,,residential,,,Ward 61,unk11,unknown_1,350,13,337,77
+986880185,02-Oct-21,71,27,Evershine Greens,,apartments,,,Ward 61,unk1,unknown_4,180,33,147,45
+986880185,02-Oct-21,0,26,random_2,,apartments,,,Ward 61,JBCN SCHOOL LANE1,Serenity,159,115,44,58
+986880185,02-Oct-21,75,46,random_1,,residential,,,Ward 61,unk1,unknown_4,214,125,89,43
+986880185,02-Oct-21,69,41,random_3,,residential,,,Ward 61,unk11,unknown_1,309,146,163,47
+986880185,02-Oct-21,86,45,random_6,,residential,,,Ward 61,JBCN SCHOOL LANE1,Serenity,470,219,251,17
+986880185,02-Oct-21,12,5,random_7,,residential,,,Ward 61,unk11,unknown_1,459,214,245,100
+986880185,02-Oct-21,23,26,random_8,,residential,,,Ward 61,unk11,unknown_1,94,46,48,59
+986880185,02-Oct-21,87,48,random_9,,residential,,,Ward 61,JBCN SCHOOL LANE2,Serenity,334,310,24,21
+986880185,02-Oct-21,42,17,random_11,,residential,,,Ward 61,unk11,unknown_1,212,83,129,72
+986880185,02-Oct-21,86,48,Evershine Greens,,apartments,,,Ward 61,unk1,unknown_4,315,287,28,20
+986880185,02-Oct-21,62,13,random_10,,residential,,,Ward 61,JBCN SCHOOL LANE2,Serenity,480,141,339,24
+986880185,02-Oct-21,90,10,random_13,,residential,,,Ward 61,unk11,unknown_1,325,71,254,75
+986880185,02-Oct-21,17,4,random_12,,residential,,,Ward 61,unk1,unknown_4,399,81,318,94
+986880185,02-Oct-21,59,30,random_14,,residential,,,Ward 61,unk11,unknown_1,471,137,334,100
+986880185,02-Oct-21,2,15,random_15,,residential,,,Ward 61,unk11,unknown_1,354,184,170,79
+986880185,02-Oct-21,69,11,random_16,,residential,,,Ward 61,unk11,unknown_1,30,1,29,21
+986880185,02-Oct-21,15,33,random_17,,residential,,,Ward 61,unk11,unknown_1,35,8,27,23
+986880185,02-Oct-21,80,42,random_18,,residential,,,Ward 61,unk11,unknown_1,256,108,148,16
+986880185,02-Oct-21,25,14,random_19,Off New Link Road,yes,,,Ward 61,ANAND NAGAR1,ANAND NAGAR,210,47,163,17
+986880185,02-Oct-21,32,11,Raigad Military School,,school,,,Ward 61,unk1,unknown_4,486,141,345,27
+986880185,02-Oct-21,26,45,random_20,,residential,,,Ward 61,JBCN SCHOOL LANE2,Serenity,206,161,45,23
+986880185,02-Oct-21,76,46,random_21,,residential,,,Ward 61,JBCN SCHOOL LANE2,Serenity,492,241,251,5
+986880185,02-Oct-21,9,14,Samruddhi CHS,Oshiwara Link Road,residential,,,Ward 61,Walawalkar1,Walawalkar,203,122,81,85
+986880185,02-Oct-21,93,35,Oshiwara Basera,,residential,,,Ward 61,Walawalkar1,Walawalkar,156,127,29,28
+986880185,02-Oct-21,23,22,East Side Apartments,,apartments,,,Ward 61,Walawalkar1,Walawalkar,167,76,91,90
+986880185,02-Oct-21,10,10,Anand Vihar,,residential,,,Ward 61,Walawalkar1,Walawalkar,301,224,77,35
+986880185,02-Oct-21,19,32,Meera C.H.S.,"Link Road Extension, Oshiwara, Andheri West",residential,,,Ward 61,MEGA MALL 1,unknown_3,258,147,111,97
+986880185,02-Oct-21,54,40,random_22,,yes,,,Ward 61,Techweb centre,Tarapore Garden,340,192,148,80
+986880185,02-Oct-21,57,17,random_23,,yes,,,Ward 61,Techweb centre,Tarapore Garden,394,391,3,42
+986880185,02-Oct-21,93,27,random_24,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,336,311,25,58
+986880185,02-Oct-21,44,8,random_25,,yes,,,Ward 61,Walawalkar2,Walawalkar,31,30,1,21
+986880185,02-Oct-21,45,42,Sanskar,,apartments,,,Ward 61, Evershine Green,maheshwari chowk,448,401,47,40
+986880185,02-Oct-21,84,4,random_26,,yes,,,Ward 61, Evershine Green,maheshwari chowk,63,43,20,46
+986880185,02-Oct-21,9,30,Tarapore Towers,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,108,29,79,56
+986880185,02-Oct-21,25,1,random_27,,yes,,,Ward 61,MEGA MALL 1,unknown_3,59,18,41,19
+986880185,02-Oct-21,74,1,random_28,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,444,209,235,86
+986880185,02-Oct-21,50,45,random_29,,apartments,,,Ward 61,Milliennium Court,maheshwari chowk,229,12,217,34
+986880185,02-Oct-21,50,17,random_30,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,108,106,2,3
+986880185,02-Oct-21,17,11,random_31,,yes,,,Ward 61,Walawalkar2,Walawalkar,48,23,25,92
+986880185,02-Oct-21,54,43,random_32,,apartments,,,Ward 61, Evershine Green,maheshwari chowk,336,118,218,63
+986880185,02-Oct-21,20,32,random_33,,yes,,,Ward 61,MEGA MALL 1,unknown_3,421,174,247,54
+986880185,02-Oct-21,68,4,random_34,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,102,11,91,99
+986880185,02-Oct-21,81,26,random_35,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,77,20,57,50
+986880185,02-Oct-21,13,3,random_36,,apartments,,,Ward 61,Milliennium Court,maheshwari chowk,9,1,8,34
+986880185,02-Oct-21,30,24,random_37,,yes,,,Ward 61,Walawalkar1,Walawalkar,209,35,174,53
+986880185,02-Oct-21,16,33,random_38,,apartments,,,Ward 61, Evershine Green,maheshwari chowk,105,74,31,27
+986880185,02-Oct-21,50,24,Sargam,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,381,147,234,33
+986880185,02-Oct-21,0,39,random_39,,apartments,,,Ward 61,MEGA MALL 1,unknown_3,75,48,27,51
+986880185,02-Oct-21,81,11,Marigold Apartments,Off New Link Road,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,15,7,8,88
+986880185,02-Oct-21,17,13,random_40,,apartments,,,Ward 61,Milliennium Court,maheshwari chowk,381,289,92,54
+986880185,02-Oct-21,70,6,Link Way,,yes,,,Ward 61,Walawalkar2,Walawalkar,358,98,260,40
+986880185,02-Oct-21,81,33,random_41,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,381,224,157,42
+986880185,02-Oct-21,16,26,random_42,,apartments,,,Ward 61,MEGA MALL 1,unknown_3,128,86,42,38
+986880185,02-Oct-21,9,19,random_43,,yes,,,Ward 61,MEGA MALL 1,unknown_3,88,1,87,62
+986880185,02-Oct-21,48,2,random_44,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,46,9,37,38
+986880185,02-Oct-21,27,8,random_45,,apartments,,,Ward 61,Milliennium Court,maheshwari chowk,391,114,277,47
+986880185,02-Oct-21,25,20,random_46,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,253,48,205,72
+986880185,02-Oct-21,40,19,random_47,,apartments,,,Ward 61,MEGA MALL 1,unknown_3,161,3,158,43
+986880185,02-Oct-21,74,14,random_48,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,202,53,149,81
+986880185,02-Oct-21,60,10,random_49,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,12,12,0,100
+986880185,02-Oct-21,13,17,random_50,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,457,57,400,84
+986880185,02-Oct-21,69,35,random_51,,yes,,,Ward 61,Walawalkar2,Walawalkar,130,64,66,57
+986880185,02-Oct-21,99,50,random_52,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,361,165,196,71
+986880185,02-Oct-21,69,26,random_53,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,313,146,167,25
+986880185,02-Oct-21,75,43,random_54,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,442,242,200,75
+986880185,02-Oct-21,2,3,Utsav,,apartments,,,Ward 61, Evershine Green,maheshwari chowk,397,145,252,36
+986880185,02-Oct-21,9,7,random_55,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,47,45,2,45
+986880185,02-Oct-21,37,28,Garden View - Dr Kaushal Shah's Residence,Off New Link Rd,yes,,,Ward 61,Walawalkar1,Walawalkar,387,165,222,36
+986880185,02-Oct-21,21,2,Rajrani Malhotra Vidyalaya,,school,,,Ward 61,Walawalkar2,Walawalkar,99,14,85,99
+986880185,02-Oct-21,8,4,random_56,,apartments,,,Ward 61,Milliennium Court,maheshwari chowk,138,9,129,53
+986880185,02-Oct-21,93,32,random_57,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,442,175,267,83
+986880185,02-Oct-21,38,41,Rajnigandha,,apartments,,,Ward 61, Evershine Green,maheshwari chowk,421,171,250,85
+986880185,02-Oct-21,99,34,random_58,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,444,400,44,29
+986880185,02-Oct-21,14,9,random_59,,yes,,,Ward 61,Walawalkar2,Walawalkar,348,48,300,100
+986880185,02-Oct-21,17,25,random_60,,apartments,,,Ward 61,Milliennium Court,maheshwari chowk,304,243,61,18
+986880185,02-Oct-21,0,40,Kaveri,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,409,96,313,54
+986880185,02-Oct-21,59,8,random_61,,apartments,,,Ward 61,Milliennium Court,maheshwari chowk,86,9,77,83
+986880185,02-Oct-21,12,7,random_62,,yes,,,Ward 61,Techweb centre,Tarapore Garden,391,131,260,98
+986880185,02-Oct-21,49,28,Tarapore Towers,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,473,364,109,35
+986880185,02-Oct-21,92,46,random_63,,apartments,,,Ward 61,Milliennium Court,maheshwari chowk,83,45,38,44
+986880185,02-Oct-21,92,31,random_64,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,215,138,77,77
+986880185,02-Oct-21,0,12,random_65,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,18,15,3,17
+986880185,02-Oct-21,45,23,random_66,,yes,,,Ward 61,GREEN PARK,Heera Panna,306,118,188,96
+986880185,02-Oct-21,66,37,random_67,,yes,,,Ward 61,GREEN PARK,Heera Panna,139,100,39,49
+986880185,02-Oct-21,67,34,random_68,,yes,,,Ward 61,ANAND NAGAR1,ANAND NAGAR,136,28,108,9
+986880185,02-Oct-21,99,26,random_69,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,364,114,250,44
+986880185,02-Oct-21,78,7,random_70,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,243,23,220,57
+986880185,02-Oct-21,97,11,random_71,,yes,,,Ward 61,GREEN PARK,Heera Panna,131,63,68,6
+986880185,02-Oct-21,95,10,random_72,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,484,297,187,26
+986880185,02-Oct-21,18,43,random_73,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,172,160,12,20
+986880185,02-Oct-21,38,32,random_74,,yes,,,Ward 61,GREEN PARK,Heera Panna,299,252,47,75
+986880185,02-Oct-21,3,14,random_75,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,378,265,113,9
+986880185,02-Oct-21,57,1,random_76,,yes,,,Ward 61,GREEN PARK,Heera Panna,437,340,97,44
+986880185,02-Oct-21,40,29,random_77,,yes,,,Ward 61,ANAND NAGAR1,ANAND NAGAR,269,103,166,1
+986880185,02-Oct-21,90,12,random_78,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,315,219,96,62
+986880185,02-Oct-21,32,45,random_79,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,92,26,66,83
+986880185,02-Oct-21,13,42,random_80,,yes,,,Ward 61,unk11,unknown_1,308,183,125,10
+986880185,02-Oct-21,24,41,random_81,,yes,,,Ward 61,unk11,unknown_1,79,57,22,78
+986880185,02-Oct-21,73,4,random_82,,apartments,,,Ward 61,unk11,unknown_1,395,309,86,86
+986880185,02-Oct-21,100,10,Shantivan Bldg no. 4-7,Off New Link Road,residential,,,Ward 61,Walawalkar2,Walawalkar,357,191,166,78
+986880185,02-Oct-21,64,8,random_83,,yes,,,Ward 61,unk11,unknown_1,199,170,29,89
+986880185,02-Oct-21,16,43,random_84,,yes,,,Ward 61,unk22,unknown_2,469,448,21,76
+986880185,02-Oct-21,36,19,random_85,,yes,,,Ward 61,unk22,unknown_2,122,105,17,31
+986880185,02-Oct-21,49,29,random_86,,yes,,,Ward 61,BMC1,BMC colony,324,195,129,76
+986880185,02-Oct-21,69,11,random_87,,yes,,,Ward 61,unk2,unknown_2,174,85,89,56
+986880185,02-Oct-21,52,13,random_88,,yes,,,Ward 61,unk11,unknown_1,102,80,22,31
+986880185,02-Oct-21,36,42,random_89,,yes,,,Ward 61,unk22,unknown_2,269,245,24,18
+986880185,02-Oct-21,14,50,random_90,,yes,,,Ward 61,unk22,unknown_2,95,34,61,21
+986880185,02-Oct-21,35,0,random_91,,yes,,,Ward 61,unk22,unknown_2,9,2,7,62
+986880185,02-Oct-21,65,31,random_92,,yes,,,Ward 61,BMC1,BMC colony,383,109,274,32
+986880185,02-Oct-21,81,32,random_93,,yes,,,Ward 61,unk2,unknown_2,477,101,376,13
+986880185,02-Oct-21,63,45,random_94,,yes,,,Ward 61,unk22,unknown_2,234,47,187,81
+986880185,02-Oct-21,9,50,random_95,,yes,,,Ward 61,JBCN SCHOOL LANE2,Serenity,301,112,189,50
+986880185,02-Oct-21,84,21,random_96,,yes,,,Ward 61,JBCN SCHOOL LANE2,Serenity,42,28,14,98
+986880185,02-Oct-21,80,6,random_97,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,105,40,65,46
+986880185,02-Oct-21,25,36,Shantivan Bldg no. 1-3,Off New Link Road,apartments,,,Ward 61,Walawalkar2,Walawalkar,409,349,60,51
+986880185,02-Oct-21,43,49,random_98,,yes,,,Ward 61,ANAND NAGAR1,ANAND NAGAR,188,102,86,73
+986880185,02-Oct-21,55,41,random_99,,yes,,,Ward 61,Walawalkar1,Walawalkar,464,57,407,51
+986880185,02-Oct-21,71,50,random_100,,apartments,,,Ward 61,unk2,unknown_2,5,0,5,80
+986880185,02-Oct-21,52,21,random_101,,yes,,,Ward 61,unk2,unknown_2,484,85,399,53
+986880185,02-Oct-21,0,25,random_102,,yes,,,Ward 61,Behram Baug,Behram Baug,347,99,248,46
+986880185,02-Oct-21,77,36,random_103,,yes,,,Ward 61,unk11,unknown_1,376,281,95,18
+986880185,02-Oct-21,16,29,random_104,,apartments,,,Ward 61,unk11,unknown_1,470,164,306,39
+986880185,02-Oct-21,64,20,random_105,,yes,,,Ward 61,unk22,unknown_2,338,287,51,88
+986880185,02-Oct-21,85,23,random_106,,yes,,,Ward 61,unk2,unknown_2,44,23,21,36
+986880185,02-Oct-21,64,6,random_107,,yes,,,Ward 61,unk2,unknown_2,205,49,156,49
+986880185,02-Oct-21,15,17,Tarapore Towers,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,5,0,5,37
+986880185,02-Oct-21,9,32,Tarapore Towers,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,418,238,180,23
+986880185,02-Oct-21,74,23,Tarapore Towers,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,105,1,104,62
+986880185,02-Oct-21,100,19,random_108,,yes,,,Ward 61,unk11,unknown_1,43,25,18,48
+986880185,02-Oct-21,22,8,random_109,,yes,,,Ward 61,unk11,unknown_1,124,91,33,51
+986880185,02-Oct-21,10,15,random_110,,apartments,,,Ward 61,unk11,unknown_1,457,34,423,29
+986880185,02-Oct-21,93,46,random_111,,yes,,,Ward 61,ANAND NAGAR1,ANAND NAGAR,53,8,45,58
+986880185,02-Oct-21,76,36,random_112,,apartments,,,Ward 61,unk11,unknown_1,33,21,12,100
+986880185,02-Oct-21,45,33,random_113,,yes,,,Ward 61,Behram Baug,Behram Baug,27,6,21,5
+986880185,02-Oct-21,29,6,random_114,,yes,,,Ward 61,unk11,unknown_1,84,11,73,47
+986880185,02-Oct-21,39,33,random_115,,yes,,,Ward 61,Behram Baug,Behram Baug,274,203,71,89
+986880185,02-Oct-21,32,40,Oshiwara Police Station,,yes,,,Ward 61,GREEN PARK,Heera Panna,376,227,149,8
+986880185,02-Oct-21,86,35,City International School,,school,,,Ward 61,JBCN SCHOOL LANE1,Serenity,214,7,207,5
+986880185,02-Oct-21,95,45,Reliable Business Centre,,commercial,,,Ward 61,JBCN SCHOOL LANE1,Serenity,373,205,168,87
+986880185,02-Oct-21,38,45,random_116,,apartments,,,Ward 61,unk2,unknown_2,24,7,17,91
+986880185,03-Oct-21,40,32,"Transit Camp, Behram Baug",,commercial,,,Ward 61,ANAND NAGAR1,ANAND NAGAR,460,286,174,66
+986880185,03-Oct-21,87,16,random_5,,yes,,,Ward 61,GREEN PARK,Heera Panna,58,52,6,27
+986880185,03-Oct-21,89,12,Heera Panna,,commercial,,,Ward 61,GREEN PARK,Heera Panna,119,11,108,73
+986880185,03-Oct-21,8,19,Park Paradise,,yes,,,Ward 61,Walawalkar1,Walawalkar,305,223,82,60
+986880185,03-Oct-21,66,41,Park View,,yes,,,Ward 61,Walawalkar1,Walawalkar,157,10,147,71
+986880185,03-Oct-21,74,13,random_4,,residential,,,Ward 61,unk11,unknown_1,191,59,132,52
+986880185,03-Oct-21,81,12,Evershine Greens,,apartments,,,Ward 61,unk1,unknown_4,251,247,4,89
+986880185,03-Oct-21,97,10,random_2,,apartments,,,Ward 61,JBCN SCHOOL LANE1,Serenity,276,276,0,42
+986880185,03-Oct-21,56,25,random_1,,residential,,,Ward 61,unk1,unknown_4,500,40,460,47
+986880185,03-Oct-21,42,15,random_3,,residential,,,Ward 61,unk11,unknown_1,89,87,2,62
+986880185,03-Oct-21,80,0,random_6,,residential,,,Ward 61,JBCN SCHOOL LANE1,Serenity,17,3,14,1
+986880185,03-Oct-21,88,25,random_7,,residential,,,Ward 61,unk11,unknown_1,317,55,262,34
+986880185,03-Oct-21,22,7,random_8,,residential,,,Ward 61,unk11,unknown_1,56,48,8,37
+986880185,03-Oct-21,77,27,random_9,,residential,,,Ward 61,JBCN SCHOOL LANE2,Serenity,148,84,64,56
+986880185,03-Oct-21,9,20,random_11,,residential,,,Ward 61,unk11,unknown_1,251,245,6,74
+986880185,03-Oct-21,38,33,Evershine Greens,,apartments,,,Ward 61,unk1,unknown_4,455,35,420,33
+986880185,03-Oct-21,61,12,random_10,,residential,,,Ward 61,JBCN SCHOOL LANE2,Serenity,240,108,132,44
+986880185,03-Oct-21,86,41,random_13,,residential,,,Ward 61,unk11,unknown_1,436,129,307,81
+986880185,03-Oct-21,42,34,random_12,,residential,,,Ward 61,unk1,unknown_4,20,5,15,37
+986880185,03-Oct-21,98,13,random_14,,residential,,,Ward 61,unk11,unknown_1,247,200,47,30
+986880185,03-Oct-21,32,20,random_15,,residential,,,Ward 61,unk11,unknown_1,459,71,388,84
+986880185,03-Oct-21,76,21,random_16,,residential,,,Ward 61,unk11,unknown_1,390,327,63,7
+986880185,03-Oct-21,15,12,random_17,,residential,,,Ward 61,unk11,unknown_1,380,208,172,74
+986880185,03-Oct-21,8,50,random_18,,residential,,,Ward 61,unk11,unknown_1,221,48,173,54
+986880185,03-Oct-21,90,37,random_19,Off New Link Road,yes,,,Ward 61,ANAND NAGAR1,ANAND NAGAR,333,266,67,89
+986880185,03-Oct-21,66,31,Raigad Military School,,school,,,Ward 61,unk1,unknown_4,312,127,185,78
+986880185,03-Oct-21,39,34,random_20,,residential,,,Ward 61,JBCN SCHOOL LANE2,Serenity,108,43,65,8
+986880185,03-Oct-21,74,20,random_21,,residential,,,Ward 61,JBCN SCHOOL LANE2,Serenity,479,159,320,93
+986880185,03-Oct-21,66,42,Samruddhi CHS,Oshiwara Link Road,residential,,,Ward 61,Walawalkar1,Walawalkar,233,121,112,12
+986880185,03-Oct-21,84,24,Oshiwara Basera,,residential,,,Ward 61,Walawalkar1,Walawalkar,79,38,41,15
+986880185,03-Oct-21,98,12,East Side Apartments,,apartments,,,Ward 61,Walawalkar1,Walawalkar,37,17,20,52
+986880185,03-Oct-21,90,11,Anand Vihar,,residential,,,Ward 61,Walawalkar1,Walawalkar,32,18,14,80
+986880185,03-Oct-21,35,37,Meera C.H.S.,"Link Road Extension, Oshiwara, Andheri West",residential,,,Ward 61,MEGA MALL 1,unknown_3,183,50,133,40
+986880185,03-Oct-21,37,20,random_22,,yes,,,Ward 61,Techweb centre,Tarapore Garden,383,159,224,82
+986880185,03-Oct-21,77,44,random_23,,yes,,,Ward 61,Techweb centre,Tarapore Garden,100,50,50,89
+986880185,03-Oct-21,85,1,random_24,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,374,301,73,15
+986880185,03-Oct-21,11,14,random_25,,yes,,,Ward 61,Walawalkar2,Walawalkar,48,35,13,73
+986880185,03-Oct-21,19,47,Sanskar,,apartments,,,Ward 61, Evershine Green,maheshwari chowk,278,215,63,52
+986880185,03-Oct-21,27,16,random_26,,yes,,,Ward 61, Evershine Green,maheshwari chowk,92,58,34,21
+986880185,03-Oct-21,29,39,Tarapore Towers,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,381,49,332,11
+986880185,03-Oct-21,35,14,random_27,,yes,,,Ward 61,MEGA MALL 1,unknown_3,411,321,90,71
+986880185,03-Oct-21,34,2,random_28,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,468,392,76,91
+986880185,03-Oct-21,9,19,random_29,,apartments,,,Ward 61,Milliennium Court,maheshwari chowk,494,456,38,88
+986880185,03-Oct-21,94,10,random_30,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,229,72,157,73
+986880185,03-Oct-21,58,11,random_31,,yes,,,Ward 61,Walawalkar2,Walawalkar,149,73,76,20
+986880185,03-Oct-21,38,40,random_32,,apartments,,,Ward 61, Evershine Green,maheshwari chowk,301,229,72,25
+986880185,03-Oct-21,23,30,random_33,,yes,,,Ward 61,MEGA MALL 1,unknown_3,51,20,31,87
+986880185,03-Oct-21,65,36,random_34,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,268,217,51,98
+986880185,03-Oct-21,77,29,random_35,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,416,279,137,87
+986880185,03-Oct-21,10,39,random_36,,apartments,,,Ward 61,Milliennium Court,maheshwari chowk,477,187,290,98
+986880185,03-Oct-21,76,8,random_37,,yes,,,Ward 61,Walawalkar1,Walawalkar,381,194,187,60
+986880185,03-Oct-21,16,13,random_38,,apartments,,,Ward 61, Evershine Green,maheshwari chowk,216,1,215,79
+986880185,03-Oct-21,62,43,Sargam,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,68,13,55,98
+986880185,03-Oct-21,77,41,random_39,,apartments,,,Ward 61,MEGA MALL 1,unknown_3,451,35,416,94
+986880185,03-Oct-21,45,12,Marigold Apartments,Off New Link Road,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,306,188,118,9
+986880185,03-Oct-21,85,10,random_40,,apartments,,,Ward 61,Milliennium Court,maheshwari chowk,20,6,14,69
+986880185,03-Oct-21,89,37,Link Way,,yes,,,Ward 61,Walawalkar2,Walawalkar,214,97,117,5
+986880185,03-Oct-21,98,10,random_41,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,386,300,86,78
+986880185,03-Oct-21,68,31,random_42,,apartments,,,Ward 61,MEGA MALL 1,unknown_3,158,62,96,74
+986880185,03-Oct-21,63,19,random_43,,yes,,,Ward 61,MEGA MALL 1,unknown_3,389,168,221,59
+986880185,03-Oct-21,54,48,random_44,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,279,198,81,57
+986880185,03-Oct-21,88,39,random_45,,apartments,,,Ward 61,Milliennium Court,maheshwari chowk,407,44,363,39
+986880185,03-Oct-21,11,6,random_46,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,263,192,71,17
+986880185,03-Oct-21,50,4,random_47,,apartments,,,Ward 61,MEGA MALL 1,unknown_3,98,19,79,29
+986880185,03-Oct-21,54,28,random_48,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,22,19,3,19
+986880185,03-Oct-21,100,14,random_49,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,289,267,22,56
+986880185,03-Oct-21,5,17,random_50,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,198,39,159,89
+986880185,03-Oct-21,29,40,random_51,,yes,,,Ward 61,Walawalkar2,Walawalkar,183,77,106,6
+986880185,03-Oct-21,44,23,random_52,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,217,214,3,35
+986880185,03-Oct-21,10,24,random_53,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,230,106,124,13
+986880185,03-Oct-21,43,32,random_54,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,286,5,281,23
+986880185,03-Oct-21,21,30,Utsav,,apartments,,,Ward 61, Evershine Green,maheshwari chowk,375,9,366,17
+986880185,03-Oct-21,63,34,random_55,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,253,122,131,67
+986880185,03-Oct-21,84,8,Garden View - Dr Kaushal Shah's Residence,Off New Link Rd,yes,,,Ward 61,Walawalkar1,Walawalkar,38,24,14,54
+986880185,03-Oct-21,1,36,Rajrani Malhotra Vidyalaya,,school,,,Ward 61,Walawalkar2,Walawalkar,262,199,63,74
+986880185,03-Oct-21,19,35,random_56,,apartments,,,Ward 61,Milliennium Court,maheshwari chowk,324,133,191,65
+986880185,03-Oct-21,91,23,random_57,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,357,334,23,56
+986880185,03-Oct-21,15,20,Rajnigandha,,apartments,,,Ward 61, Evershine Green,maheshwari chowk,138,73,65,50
+986880185,03-Oct-21,73,46,random_58,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,135,92,43,78
+986880185,03-Oct-21,100,37,random_59,,yes,,,Ward 61,Walawalkar2,Walawalkar,5,0,5,69
+986880185,03-Oct-21,10,41,random_60,,apartments,,,Ward 61,Milliennium Court,maheshwari chowk,495,378,117,4
+986880185,03-Oct-21,21,19,Kaveri,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,288,100,188,65
+986880185,03-Oct-21,20,17,random_61,,apartments,,,Ward 61,Milliennium Court,maheshwari chowk,291,161,130,59
+986880185,03-Oct-21,3,26,random_62,,yes,,,Ward 61,Techweb centre,Tarapore Garden,407,115,292,34
+986880185,03-Oct-21,14,23,Tarapore Towers,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,295,43,252,36
+986880185,03-Oct-21,41,18,random_63,,apartments,,,Ward 61,Milliennium Court,maheshwari chowk,252,151,101,24
+986880185,03-Oct-21,30,30,random_64,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,249,80,169,99
+986880185,03-Oct-21,73,14,random_65,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,180,135,45,10
+986880185,03-Oct-21,100,27,random_66,,yes,,,Ward 61,GREEN PARK,Heera Panna,1,1,0,55
+986880185,03-Oct-21,54,31,random_67,,yes,,,Ward 61,GREEN PARK,Heera Panna,211,200,11,0
+986880185,03-Oct-21,35,2,random_68,,yes,,,Ward 61,ANAND NAGAR1,ANAND NAGAR,45,21,24,56
+986880185,03-Oct-21,45,25,random_69,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,433,37,396,21
+986880185,03-Oct-21,49,2,random_70,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,113,37,76,65
+986880185,03-Oct-21,46,37,random_71,,yes,,,Ward 61,GREEN PARK,Heera Panna,363,108,255,71
+986880185,03-Oct-21,57,37,random_72,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,371,191,180,73
+986880185,03-Oct-21,53,43,random_73,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,436,362,74,54
+986880185,03-Oct-21,34,40,random_74,,yes,,,Ward 61,GREEN PARK,Heera Panna,401,110,291,12
+986880185,03-Oct-21,19,35,random_75,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,146,21,125,64
+986880185,03-Oct-21,20,18,random_76,,yes,,,Ward 61,GREEN PARK,Heera Panna,88,82,6,36
+986880185,03-Oct-21,55,48,random_77,,yes,,,Ward 61,ANAND NAGAR1,ANAND NAGAR,407,216,191,59
+986880185,03-Oct-21,42,8,random_78,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,44,6,38,14
+986880185,03-Oct-21,22,29,random_79,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,500,414,86,74
+986880185,03-Oct-21,33,0,random_80,,yes,,,Ward 61,unk11,unknown_1,335,233,102,2
+986880185,03-Oct-21,60,8,random_81,,yes,,,Ward 61,unk11,unknown_1,229,171,58,68
+986880185,03-Oct-21,92,0,random_82,,apartments,,,Ward 61,unk11,unknown_1,282,36,246,36
+986880185,03-Oct-21,79,8,Shantivan Bldg no. 4-7,Off New Link Road,residential,,,Ward 61,Walawalkar2,Walawalkar,475,388,87,93
+986880185,03-Oct-21,37,32,random_83,,yes,,,Ward 61,unk11,unknown_1,423,83,340,8
+986880185,03-Oct-21,70,31,random_84,,yes,,,Ward 61,unk22,unknown_2,457,132,325,33
+986880185,03-Oct-21,72,40,random_85,,yes,,,Ward 61,unk22,unknown_2,36,4,32,78
+986880185,03-Oct-21,56,35,random_86,,yes,,,Ward 61,BMC1,BMC colony,108,108,0,63
+986880185,03-Oct-21,34,38,random_87,,yes,,,Ward 61,unk2,unknown_2,191,127,64,42
+986880185,03-Oct-21,93,5,random_88,,yes,,,Ward 61,unk11,unknown_1,478,167,311,45
+986880185,03-Oct-21,9,14,random_89,,yes,,,Ward 61,unk22,unknown_2,353,277,76,51
+986880185,03-Oct-21,59,45,random_90,,yes,,,Ward 61,unk22,unknown_2,356,35,321,22
+986880185,03-Oct-21,17,24,random_91,,yes,,,Ward 61,unk22,unknown_2,15,15,0,9
+986880185,03-Oct-21,94,10,random_92,,yes,,,Ward 61,BMC1,BMC colony,66,36,30,99
+986880185,03-Oct-21,52,21,random_93,,yes,,,Ward 61,unk2,unknown_2,231,231,0,21
+986880185,03-Oct-21,75,10,random_94,,yes,,,Ward 61,unk22,unknown_2,101,46,55,53
+986880185,03-Oct-21,88,2,random_95,,yes,,,Ward 61,JBCN SCHOOL LANE2,Serenity,368,218,150,25
+986880185,03-Oct-21,7,13,random_96,,yes,,,Ward 61,JBCN SCHOOL LANE2,Serenity,352,46,306,43
+986880185,03-Oct-21,25,11,random_97,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,477,218,259,63
+986880185,03-Oct-21,41,31,Shantivan Bldg no. 1-3,Off New Link Road,apartments,,,Ward 61,Walawalkar2,Walawalkar,403,362,41,94
+986880185,03-Oct-21,0,42,random_98,,yes,,,Ward 61,ANAND NAGAR1,ANAND NAGAR,486,313,173,68
+986880185,03-Oct-21,93,12,random_99,,yes,,,Ward 61,Walawalkar1,Walawalkar,148,138,10,74
+986880185,03-Oct-21,39,36,random_100,,apartments,,,Ward 61,unk2,unknown_2,449,132,317,69
+986880185,03-Oct-21,86,40,random_101,,yes,,,Ward 61,unk2,unknown_2,482,24,458,13
+986880185,03-Oct-21,50,41,random_102,,yes,,,Ward 61,Behram Baug,Behram Baug,430,381,49,54
+986880185,03-Oct-21,4,3,random_103,,yes,,,Ward 61,unk11,unknown_1,371,143,228,26
+986880185,03-Oct-21,31,4,random_104,,apartments,,,Ward 61,unk11,unknown_1,140,81,59,32
+986880185,03-Oct-21,88,39,random_105,,yes,,,Ward 61,unk22,unknown_2,438,78,360,99
+986880185,03-Oct-21,48,36,random_106,,yes,,,Ward 61,unk2,unknown_2,338,95,243,53
+986880185,03-Oct-21,4,0,random_107,,yes,,,Ward 61,unk2,unknown_2,136,98,38,5
+986880185,03-Oct-21,38,28,Tarapore Towers,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,86,54,32,84
+986880185,03-Oct-21,46,4,Tarapore Towers,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,366,205,161,60
+986880185,03-Oct-21,56,0,Tarapore Towers,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,64,5,59,18
+986880185,03-Oct-21,61,29,random_108,,yes,,,Ward 61,unk11,unknown_1,272,145,127,37
+986880185,03-Oct-21,35,16,random_109,,yes,,,Ward 61,unk11,unknown_1,342,47,295,83
+986880185,03-Oct-21,41,14,random_110,,apartments,,,Ward 61,unk11,unknown_1,213,130,83,14
+986880185,03-Oct-21,77,13,random_111,,yes,,,Ward 61,ANAND NAGAR1,ANAND NAGAR,249,80,169,90
+986880185,03-Oct-21,27,7,random_112,,apartments,,,Ward 61,unk11,unknown_1,492,223,269,42
+986880185,03-Oct-21,68,37,random_113,,yes,,,Ward 61,Behram Baug,Behram Baug,485,420,65,63
+986880185,03-Oct-21,83,49,random_114,,yes,,,Ward 61,unk11,unknown_1,8,5,3,69
+986880185,03-Oct-21,90,1,random_115,,yes,,,Ward 61,Behram Baug,Behram Baug,247,105,142,15
+986880185,03-Oct-21,94,16,Oshiwara Police Station,,yes,,,Ward 61,GREEN PARK,Heera Panna,465,434,31,72
+986880185,03-Oct-21,61,1,City International School,,school,,,Ward 61,JBCN SCHOOL LANE1,Serenity,172,137,35,75
+986880185,03-Oct-21,58,40,Reliable Business Centre,,commercial,,,Ward 61,JBCN SCHOOL LANE1,Serenity,139,126,13,32
+986880185,03-Oct-21,98,22,random_116,,apartments,,,Ward 61,unk2,unknown_2,284,20,264,60
+986880185,04-Oct-21,85,15,"Transit Camp, Behram Baug",,commercial,,,Ward 61,ANAND NAGAR1,ANAND NAGAR,128,95,33,36
+986880185,04-Oct-21,6,47,random_5,,yes,,,Ward 61,GREEN PARK,Heera Panna,421,189,232,97
+986880185,04-Oct-21,83,40,Heera Panna,,commercial,,,Ward 61,GREEN PARK,Heera Panna,449,83,366,5
+986880185,04-Oct-21,4,49,Park Paradise,,yes,,,Ward 61,Walawalkar1,Walawalkar,402,37,365,40
+986880185,04-Oct-21,19,36,Park View,,yes,,,Ward 61,Walawalkar1,Walawalkar,27,17,10,86
+986880185,04-Oct-21,48,39,random_4,,residential,,,Ward 61,unk11,unknown_1,450,193,257,97
+986880185,04-Oct-21,80,33,Evershine Greens,,apartments,,,Ward 61,unk1,unknown_4,28,28,0,70
+986880185,04-Oct-21,4,40,random_2,,apartments,,,Ward 61,JBCN SCHOOL LANE1,Serenity,309,29,280,39
+986880185,04-Oct-21,57,15,random_1,,residential,,,Ward 61,unk1,unknown_4,260,157,103,14
+986880185,04-Oct-21,82,44,random_3,,residential,,,Ward 61,unk11,unknown_1,397,298,99,60
+986880185,04-Oct-21,50,22,random_6,,residential,,,Ward 61,JBCN SCHOOL LANE1,Serenity,307,172,135,54
+986880185,04-Oct-21,5,47,random_7,,residential,,,Ward 61,unk11,unknown_1,454,103,351,6
+986880185,04-Oct-21,43,50,random_8,,residential,,,Ward 61,unk11,unknown_1,384,293,91,5
+986880185,04-Oct-21,68,30,random_9,,residential,,,Ward 61,JBCN SCHOOL LANE2,Serenity,137,106,31,22
+986880185,04-Oct-21,42,25,random_11,,residential,,,Ward 61,unk11,unknown_1,83,57,26,33
+986880185,04-Oct-21,16,9,Evershine Greens,,apartments,,,Ward 61,unk1,unknown_4,82,21,61,22
+986880185,04-Oct-21,51,13,random_10,,residential,,,Ward 61,JBCN SCHOOL LANE2,Serenity,476,110,366,50
+986880185,04-Oct-21,84,25,random_13,,residential,,,Ward 61,unk11,unknown_1,240,96,144,34
+986880185,04-Oct-21,56,35,random_12,,residential,,,Ward 61,unk1,unknown_4,246,85,161,8
+986880185,04-Oct-21,50,22,random_14,,residential,,,Ward 61,unk11,unknown_1,424,384,40,75
+986880185,04-Oct-21,3,41,random_15,,residential,,,Ward 61,unk11,unknown_1,69,45,24,5
+986880185,04-Oct-21,7,43,random_16,,residential,,,Ward 61,unk11,unknown_1,227,34,193,24
+986880185,04-Oct-21,47,9,random_17,,residential,,,Ward 61,unk11,unknown_1,67,9,58,2
+986880185,04-Oct-21,59,8,random_18,,residential,,,Ward 61,unk11,unknown_1,400,385,15,94
+986880185,04-Oct-21,58,45,random_19,Off New Link Road,yes,,,Ward 61,ANAND NAGAR1,ANAND NAGAR,125,6,119,37
+986880185,04-Oct-21,64,46,Raigad Military School,,school,,,Ward 61,unk1,unknown_4,20,15,5,70
+986880185,04-Oct-21,55,13,random_20,,residential,,,Ward 61,JBCN SCHOOL LANE2,Serenity,213,165,48,71
+986880185,04-Oct-21,55,40,random_21,,residential,,,Ward 61,JBCN SCHOOL LANE2,Serenity,255,70,185,29
+986880185,04-Oct-21,80,22,Samruddhi CHS,Oshiwara Link Road,residential,,,Ward 61,Walawalkar1,Walawalkar,296,70,226,32
+986880185,04-Oct-21,73,46,Oshiwara Basera,,residential,,,Ward 61,Walawalkar1,Walawalkar,383,119,264,10
+986880185,04-Oct-21,77,44,East Side Apartments,,apartments,,,Ward 61,Walawalkar1,Walawalkar,164,124,40,94
+986880185,04-Oct-21,18,14,Anand Vihar,,residential,,,Ward 61,Walawalkar1,Walawalkar,202,181,21,41
+986880185,04-Oct-21,50,43,Meera C.H.S.,"Link Road Extension, Oshiwara, Andheri West",residential,,,Ward 61,MEGA MALL 1,unknown_3,349,57,292,89
+986880185,04-Oct-21,41,12,random_22,,yes,,,Ward 61,Techweb centre,Tarapore Garden,377,109,268,60
+986880185,04-Oct-21,16,14,random_23,,yes,,,Ward 61,Techweb centre,Tarapore Garden,237,206,31,1
+986880185,04-Oct-21,83,33,random_24,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,277,91,186,99
+986880185,04-Oct-21,97,37,random_25,,yes,,,Ward 61,Walawalkar2,Walawalkar,184,67,117,54
+986880185,04-Oct-21,24,42,Sanskar,,apartments,,,Ward 61, Evershine Green,maheshwari chowk,35,1,34,3
+986880185,04-Oct-21,11,32,random_26,,yes,,,Ward 61, Evershine Green,maheshwari chowk,119,29,90,81
+986880185,04-Oct-21,94,8,Tarapore Towers,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,454,238,216,82
+986880185,04-Oct-21,85,47,random_27,,yes,,,Ward 61,MEGA MALL 1,unknown_3,391,205,186,62
+986880185,04-Oct-21,85,35,random_28,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,40,35,5,45
+986880185,04-Oct-21,72,4,random_29,,apartments,,,Ward 61,Milliennium Court,maheshwari chowk,307,120,187,98
+986880185,04-Oct-21,51,16,random_30,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,131,99,32,33
+986880185,04-Oct-21,67,17,random_31,,yes,,,Ward 61,Walawalkar2,Walawalkar,377,215,162,5
+986880185,04-Oct-21,5,11,random_32,,apartments,,,Ward 61, Evershine Green,maheshwari chowk,385,311,74,77
+986880185,04-Oct-21,27,49,random_33,,yes,,,Ward 61,MEGA MALL 1,unknown_3,203,54,149,76
+986880185,04-Oct-21,69,1,random_34,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,407,296,111,50
+986880185,04-Oct-21,24,12,random_35,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,306,118,188,19
+986880185,04-Oct-21,19,0,random_36,,apartments,,,Ward 61,Milliennium Court,maheshwari chowk,424,48,376,59
+986880185,04-Oct-21,85,45,random_37,,yes,,,Ward 61,Walawalkar1,Walawalkar,403,292,111,60
+986880185,04-Oct-21,0,35,random_38,,apartments,,,Ward 61, Evershine Green,maheshwari chowk,270,79,191,46
+986880185,04-Oct-21,8,12,Sargam,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,398,115,283,24
+986880185,04-Oct-21,98,2,random_39,,apartments,,,Ward 61,MEGA MALL 1,unknown_3,477,408,69,56
+986880185,04-Oct-21,79,6,Marigold Apartments,Off New Link Road,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,148,19,129,96
+986880185,04-Oct-21,54,7,random_40,,apartments,,,Ward 61,Milliennium Court,maheshwari chowk,481,178,303,84
+986880185,04-Oct-21,96,15,Link Way,,yes,,,Ward 61,Walawalkar2,Walawalkar,117,9,108,54
+986880185,04-Oct-21,94,18,random_41,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,471,294,177,67
+986880185,04-Oct-21,72,38,random_42,,apartments,,,Ward 61,MEGA MALL 1,unknown_3,221,180,41,12
+986880185,04-Oct-21,4,24,random_43,,yes,,,Ward 61,MEGA MALL 1,unknown_3,466,113,353,86
+986880185,04-Oct-21,30,22,random_44,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,73,22,51,18
+986880185,04-Oct-21,90,25,random_45,,apartments,,,Ward 61,Milliennium Court,maheshwari chowk,395,147,248,86
+986880185,04-Oct-21,97,50,random_46,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,231,180,51,27
+986880185,04-Oct-21,3,37,random_47,,apartments,,,Ward 61,MEGA MALL 1,unknown_3,282,163,119,9
+986880185,04-Oct-21,36,9,random_48,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,245,0,245,40
+986880185,04-Oct-21,42,34,random_49,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,484,172,312,48
+986880185,04-Oct-21,93,18,random_50,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,23,8,15,42
+986880185,04-Oct-21,25,27,random_51,,yes,,,Ward 61,Walawalkar2,Walawalkar,7,0,7,12
+986880185,04-Oct-21,57,1,random_52,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,239,232,7,43
+986880185,04-Oct-21,2,10,random_53,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,200,117,83,60
+986880185,04-Oct-21,47,7,random_54,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,157,76,81,48
+986880185,04-Oct-21,25,24,Utsav,,apartments,,,Ward 61, Evershine Green,maheshwari chowk,272,198,74,4
+986880185,04-Oct-21,78,38,random_55,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,167,43,124,5
+986880185,04-Oct-21,53,3,Garden View - Dr Kaushal Shah's Residence,Off New Link Rd,yes,,,Ward 61,Walawalkar1,Walawalkar,177,49,128,77
+986880185,04-Oct-21,11,11,Rajrani Malhotra Vidyalaya,,school,,,Ward 61,Walawalkar2,Walawalkar,237,70,167,1
+986880185,04-Oct-21,22,17,random_56,,apartments,,,Ward 61,Milliennium Court,maheshwari chowk,9,2,7,25
+986880185,04-Oct-21,43,12,random_57,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,384,187,197,69
+986880185,04-Oct-21,6,8,Rajnigandha,,apartments,,,Ward 61, Evershine Green,maheshwari chowk,266,80,186,48
+986880185,04-Oct-21,92,25,random_58,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,176,114,62,93
+986880185,04-Oct-21,41,34,random_59,,yes,,,Ward 61,Walawalkar2,Walawalkar,252,204,48,61
+986880185,04-Oct-21,91,46,random_60,,apartments,,,Ward 61,Milliennium Court,maheshwari chowk,196,187,9,28
+986880185,04-Oct-21,22,24,Kaveri,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,96,84,12,83
+986880185,04-Oct-21,0,6,random_61,,apartments,,,Ward 61,Milliennium Court,maheshwari chowk,114,82,32,7
+986880185,04-Oct-21,95,32,random_62,,yes,,,Ward 61,Techweb centre,Tarapore Garden,437,7,430,29
+986880185,04-Oct-21,38,11,Tarapore Towers,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,53,9,44,14
+986880185,04-Oct-21,21,30,random_63,,apartments,,,Ward 61,Milliennium Court,maheshwari chowk,458,51,407,24
+986880185,04-Oct-21,92,1,random_64,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,275,232,43,78
+986880185,04-Oct-21,57,13,random_65,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,431,106,325,77
+986880185,04-Oct-21,84,37,random_66,,yes,,,Ward 61,GREEN PARK,Heera Panna,121,81,40,17
+986880185,04-Oct-21,48,0,random_67,,yes,,,Ward 61,GREEN PARK,Heera Panna,371,315,56,43
+986880185,04-Oct-21,75,44,random_68,,yes,,,Ward 61,ANAND NAGAR1,ANAND NAGAR,411,102,309,95
+986880185,04-Oct-21,67,14,random_69,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,259,234,25,40
+986880185,04-Oct-21,1,15,random_70,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,192,121,71,40
+986880185,04-Oct-21,67,10,random_71,,yes,,,Ward 61,GREEN PARK,Heera Panna,375,72,303,56
+986880185,04-Oct-21,30,22,random_72,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,202,179,23,31
+986880185,04-Oct-21,6,38,random_73,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,11,6,5,80
+986880185,04-Oct-21,59,47,random_74,,yes,,,Ward 61,GREEN PARK,Heera Panna,460,306,154,17
+986880185,04-Oct-21,18,0,random_75,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,240,109,131,10
+986880185,04-Oct-21,25,38,random_76,,yes,,,Ward 61,GREEN PARK,Heera Panna,140,81,59,2
+986880185,04-Oct-21,85,17,random_77,,yes,,,Ward 61,ANAND NAGAR1,ANAND NAGAR,107,76,31,90
+986880185,04-Oct-21,56,40,random_78,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,349,45,304,20
+986880185,04-Oct-21,47,35,random_79,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,400,284,116,97
+986880185,04-Oct-21,95,41,random_80,,yes,,,Ward 61,unk11,unknown_1,73,14,59,68
+986880185,04-Oct-21,44,40,random_81,,yes,,,Ward 61,unk11,unknown_1,342,184,158,76
+986880185,04-Oct-21,56,20,random_82,,apartments,,,Ward 61,unk11,unknown_1,305,210,95,56
+986880185,04-Oct-21,30,24,Shantivan Bldg no. 4-7,Off New Link Road,residential,,,Ward 61,Walawalkar2,Walawalkar,379,354,25,30
+986880185,04-Oct-21,100,1,random_83,,yes,,,Ward 61,unk11,unknown_1,429,45,384,80
+986880185,04-Oct-21,22,44,random_84,,yes,,,Ward 61,unk22,unknown_2,473,228,245,72
+986880185,04-Oct-21,9,30,random_85,,yes,,,Ward 61,unk22,unknown_2,217,94,123,59
+986880185,04-Oct-21,0,25,random_86,,yes,,,Ward 61,BMC1,BMC colony,196,81,115,5
+986880185,04-Oct-21,55,41,random_87,,yes,,,Ward 61,unk2,unknown_2,62,14,48,27
+986880185,04-Oct-21,69,10,random_88,,yes,,,Ward 61,unk11,unknown_1,488,322,166,78
+986880185,04-Oct-21,26,46,random_89,,yes,,,Ward 61,unk22,unknown_2,464,49,415,85
+986880185,04-Oct-21,30,15,random_90,,yes,,,Ward 61,unk22,unknown_2,410,347,63,82
+986880185,04-Oct-21,42,49,random_91,,yes,,,Ward 61,unk22,unknown_2,414,307,107,95
+986880185,04-Oct-21,7,31,random_92,,yes,,,Ward 61,BMC1,BMC colony,432,342,90,11
+986880185,04-Oct-21,79,49,random_93,,yes,,,Ward 61,unk2,unknown_2,447,127,320,4
+986880185,04-Oct-21,77,5,random_94,,yes,,,Ward 61,unk22,unknown_2,321,37,284,64
+986880185,04-Oct-21,42,1,random_95,,yes,,,Ward 61,JBCN SCHOOL LANE2,Serenity,240,33,207,85
+986880185,04-Oct-21,53,23,random_96,,yes,,,Ward 61,JBCN SCHOOL LANE2,Serenity,388,80,308,6
+986880185,04-Oct-21,56,36,random_97,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,227,148,79,13
+986880185,04-Oct-21,64,5,Shantivan Bldg no. 1-3,Off New Link Road,apartments,,,Ward 61,Walawalkar2,Walawalkar,184,166,18,67
+986880185,04-Oct-21,64,28,random_98,,yes,,,Ward 61,ANAND NAGAR1,ANAND NAGAR,160,129,31,58
+986880185,04-Oct-21,15,42,random_99,,yes,,,Ward 61,Walawalkar1,Walawalkar,483,383,100,68
+986880185,04-Oct-21,90,26,random_100,,apartments,,,Ward 61,unk2,unknown_2,370,10,360,17
+986880185,04-Oct-21,7,13,random_101,,yes,,,Ward 61,unk2,unknown_2,492,194,298,68
+986880185,04-Oct-21,95,13,random_102,,yes,,,Ward 61,Behram Baug,Behram Baug,174,66,108,88
+986880185,04-Oct-21,31,17,random_103,,yes,,,Ward 61,unk11,unknown_1,303,140,163,94
+986880185,04-Oct-21,55,16,random_104,,apartments,,,Ward 61,unk11,unknown_1,236,74,162,85
+986880185,04-Oct-21,28,28,random_105,,yes,,,Ward 61,unk22,unknown_2,10,0,10,83
+986880185,04-Oct-21,97,38,random_106,,yes,,,Ward 61,unk2,unknown_2,123,53,70,55
+986880185,04-Oct-21,89,12,random_107,,yes,,,Ward 61,unk2,unknown_2,266,137,129,46
+986880185,04-Oct-21,45,30,Tarapore Towers,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,281,216,65,60
+986880185,04-Oct-21,98,39,Tarapore Towers,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,89,17,72,35
+986880185,04-Oct-21,35,46,Tarapore Towers,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,368,289,79,71
+986880185,04-Oct-21,50,13,random_108,,yes,,,Ward 61,unk11,unknown_1,186,42,144,46
+986880185,04-Oct-21,13,27,random_109,,yes,,,Ward 61,unk11,unknown_1,111,51,60,64
+986880185,04-Oct-21,2,1,random_110,,apartments,,,Ward 61,unk11,unknown_1,155,48,107,78
+986880185,04-Oct-21,56,12,random_111,,yes,,,Ward 61,ANAND NAGAR1,ANAND NAGAR,251,164,87,41
+986880185,04-Oct-21,25,42,random_112,,apartments,,,Ward 61,unk11,unknown_1,479,269,210,37
+986880185,04-Oct-21,82,15,random_113,,yes,,,Ward 61,Behram Baug,Behram Baug,226,226,0,0
+986880185,04-Oct-21,80,3,random_114,,yes,,,Ward 61,unk11,unknown_1,190,102,88,96
+986880185,04-Oct-21,52,14,random_115,,yes,,,Ward 61,Behram Baug,Behram Baug,144,4,140,100
+986880185,04-Oct-21,42,45,Oshiwara Police Station,,yes,,,Ward 61,GREEN PARK,Heera Panna,71,28,43,69
+986880185,04-Oct-21,48,44,City International School,,school,,,Ward 61,JBCN SCHOOL LANE1,Serenity,298,21,277,10
+986880185,04-Oct-21,13,19,Reliable Business Centre,,commercial,,,Ward 61,JBCN SCHOOL LANE1,Serenity,311,291,20,30
+986880185,04-Oct-21,55,41,random_116,,apartments,,,Ward 61,unk2,unknown_2,80,56,24,99
+986880185,05-Oct-21,20,35,"Transit Camp, Behram Baug",,commercial,,,Ward 61,ANAND NAGAR1,ANAND NAGAR,414,269,145,97
+986880185,05-Oct-21,0,21,random_5,,yes,,,Ward 61,GREEN PARK,Heera Panna,410,39,371,6
+986880185,05-Oct-21,31,20,Heera Panna,,commercial,,,Ward 61,GREEN PARK,Heera Panna,449,225,224,9
+986880185,05-Oct-21,87,27,Park Paradise,,yes,,,Ward 61,Walawalkar1,Walawalkar,314,83,231,86
+986880185,05-Oct-21,79,5,Park View,,yes,,,Ward 61,Walawalkar1,Walawalkar,421,309,112,63
+986880185,05-Oct-21,97,38,random_4,,residential,,,Ward 61,unk11,unknown_1,66,30,36,15
+986880185,05-Oct-21,87,11,Evershine Greens,,apartments,,,Ward 61,unk1,unknown_4,442,333,109,4
+986880185,05-Oct-21,54,33,random_2,,apartments,,,Ward 61,JBCN SCHOOL LANE1,Serenity,407,365,42,30
+986880185,05-Oct-21,94,27,random_1,,residential,,,Ward 61,unk1,unknown_4,13,5,8,73
+986880185,05-Oct-21,1,40,random_3,,residential,,,Ward 61,unk11,unknown_1,206,62,144,22
+986880185,05-Oct-21,19,13,random_6,,residential,,,Ward 61,JBCN SCHOOL LANE1,Serenity,411,212,199,25
+986880185,05-Oct-21,73,44,random_7,,residential,,,Ward 61,unk11,unknown_1,83,53,30,21
+986880185,05-Oct-21,26,5,random_8,,residential,,,Ward 61,unk11,unknown_1,312,29,283,84
+986880185,05-Oct-21,80,41,random_9,,residential,,,Ward 61,JBCN SCHOOL LANE2,Serenity,27,7,20,63
+986880185,05-Oct-21,94,20,random_11,,residential,,,Ward 61,unk11,unknown_1,5,0,5,29
+986880185,05-Oct-21,99,36,Evershine Greens,,apartments,,,Ward 61,unk1,unknown_4,304,101,203,1
+986880185,05-Oct-21,94,3,random_10,,residential,,,Ward 61,JBCN SCHOOL LANE2,Serenity,246,237,9,90
+986880185,05-Oct-21,41,2,random_13,,residential,,,Ward 61,unk11,unknown_1,323,138,185,78
+986880185,05-Oct-21,89,14,random_12,,residential,,,Ward 61,unk1,unknown_4,459,105,354,12
+986880185,05-Oct-21,33,45,random_14,,residential,,,Ward 61,unk11,unknown_1,60,55,5,16
+986880185,05-Oct-21,37,34,random_15,,residential,,,Ward 61,unk11,unknown_1,230,161,69,84
+986880185,05-Oct-21,36,7,random_16,,residential,,,Ward 61,unk11,unknown_1,121,31,90,30
+986880185,05-Oct-21,48,30,random_17,,residential,,,Ward 61,unk11,unknown_1,117,94,23,25
+986880185,05-Oct-21,28,15,random_18,,residential,,,Ward 61,unk11,unknown_1,135,128,7,75
+986880185,05-Oct-21,89,36,random_19,Off New Link Road,yes,,,Ward 61,ANAND NAGAR1,ANAND NAGAR,46,11,35,97
+986880185,05-Oct-21,22,46,Raigad Military School,,school,,,Ward 61,unk1,unknown_4,295,158,137,19
+986880185,05-Oct-21,81,21,random_20,,residential,,,Ward 61,JBCN SCHOOL LANE2,Serenity,317,94,223,22
+986880185,05-Oct-21,95,48,random_21,,residential,,,Ward 61,JBCN SCHOOL LANE2,Serenity,294,99,195,49
+986880185,05-Oct-21,85,7,Samruddhi CHS,Oshiwara Link Road,residential,,,Ward 61,Walawalkar1,Walawalkar,421,205,216,13
+986880185,05-Oct-21,90,17,Oshiwara Basera,,residential,,,Ward 61,Walawalkar1,Walawalkar,151,98,53,36
+986880185,05-Oct-21,91,8,East Side Apartments,,apartments,,,Ward 61,Walawalkar1,Walawalkar,227,41,186,22
+986880185,05-Oct-21,49,37,Anand Vihar,,residential,,,Ward 61,Walawalkar1,Walawalkar,173,125,48,72
+986880185,05-Oct-21,90,16,Meera C.H.S.,"Link Road Extension, Oshiwara, Andheri West",residential,,,Ward 61,MEGA MALL 1,unknown_3,8,3,5,50
+986880185,05-Oct-21,13,9,random_22,,yes,,,Ward 61,Techweb centre,Tarapore Garden,425,153,272,88
+986880185,05-Oct-21,68,18,random_23,,yes,,,Ward 61,Techweb centre,Tarapore Garden,371,109,262,68
+986880185,05-Oct-21,34,14,random_24,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,195,106,89,45
+986880185,05-Oct-21,79,49,random_25,,yes,,,Ward 61,Walawalkar2,Walawalkar,413,247,166,11
+986880185,05-Oct-21,50,50,Sanskar,,apartments,,,Ward 61, Evershine Green,maheshwari chowk,195,139,56,19
+986880185,05-Oct-21,48,47,random_26,,yes,,,Ward 61, Evershine Green,maheshwari chowk,250,36,214,90
+986880185,05-Oct-21,73,39,Tarapore Towers,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,134,44,90,5
+986880185,05-Oct-21,66,43,random_27,,yes,,,Ward 61,MEGA MALL 1,unknown_3,229,209,20,84
+986880185,05-Oct-21,13,18,random_28,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,106,87,19,95
+986880185,05-Oct-21,43,4,random_29,,apartments,,,Ward 61,Milliennium Court,maheshwari chowk,485,485,0,70
+986880185,05-Oct-21,28,36,random_30,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,337,118,219,33
+986880185,05-Oct-21,58,5,random_31,,yes,,,Ward 61,Walawalkar2,Walawalkar,28,12,16,39
+986880185,05-Oct-21,18,16,random_32,,apartments,,,Ward 61, Evershine Green,maheshwari chowk,187,173,14,32
+986880185,05-Oct-21,74,28,random_33,,yes,,,Ward 61,MEGA MALL 1,unknown_3,171,72,99,70
+986880185,05-Oct-21,24,50,random_34,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,156,51,105,15
+986880185,05-Oct-21,40,50,random_35,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,255,26,229,14
+986880185,05-Oct-21,95,17,random_36,,apartments,,,Ward 61,Milliennium Court,maheshwari chowk,133,49,84,50
+986880185,05-Oct-21,90,18,random_37,,yes,,,Ward 61,Walawalkar1,Walawalkar,65,19,46,31
+986880185,05-Oct-21,88,40,random_38,,apartments,,,Ward 61, Evershine Green,maheshwari chowk,218,56,162,26
+986880185,05-Oct-21,32,17,Sargam,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,426,244,182,9
+986880185,05-Oct-21,41,29,random_39,,apartments,,,Ward 61,MEGA MALL 1,unknown_3,123,111,12,50
+986880185,05-Oct-21,92,35,Marigold Apartments,Off New Link Road,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,238,57,181,21
+986880185,05-Oct-21,25,12,random_40,,apartments,,,Ward 61,Milliennium Court,maheshwari chowk,92,0,92,60
+986880185,05-Oct-21,68,10,Link Way,,yes,,,Ward 61,Walawalkar2,Walawalkar,300,200,100,30
+986880185,05-Oct-21,48,49,random_41,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,125,36,89,100
+986880185,05-Oct-21,34,38,random_42,,apartments,,,Ward 61,MEGA MALL 1,unknown_3,259,124,135,83
+986880185,05-Oct-21,66,39,random_43,,yes,,,Ward 61,MEGA MALL 1,unknown_3,421,195,226,60
+986880185,05-Oct-21,88,45,random_44,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,182,152,30,85
+986880185,05-Oct-21,45,41,random_45,,apartments,,,Ward 61,Milliennium Court,maheshwari chowk,29,4,25,23
+986880185,05-Oct-21,25,14,random_46,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,50,31,19,81
+986880185,05-Oct-21,12,16,random_47,,apartments,,,Ward 61,MEGA MALL 1,unknown_3,43,14,29,32
+986880185,05-Oct-21,12,40,random_48,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,496,265,231,67
+986880185,05-Oct-21,15,22,random_49,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,352,98,254,94
+986880185,05-Oct-21,44,44,random_50,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,361,224,137,7
+986880185,05-Oct-21,57,7,random_51,,yes,,,Ward 61,Walawalkar2,Walawalkar,79,42,37,47
+986880185,05-Oct-21,26,35,random_52,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,346,297,49,9
+986880185,05-Oct-21,20,46,random_53,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,125,100,25,59
+986880185,05-Oct-21,61,9,random_54,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,224,142,82,65
+986880185,05-Oct-21,60,48,Utsav,,apartments,,,Ward 61, Evershine Green,maheshwari chowk,66,13,53,36
+986880185,05-Oct-21,31,22,random_55,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,19,13,6,21
+986880185,05-Oct-21,54,7,Garden View - Dr Kaushal Shah's Residence,Off New Link Rd,yes,,,Ward 61,Walawalkar1,Walawalkar,303,294,9,75
+986880185,05-Oct-21,77,43,Rajrani Malhotra Vidyalaya,,school,,,Ward 61,Walawalkar2,Walawalkar,473,326,147,6
+986880185,05-Oct-21,57,34,random_56,,apartments,,,Ward 61,Milliennium Court,maheshwari chowk,294,23,271,79
+986880185,05-Oct-21,84,4,random_57,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,142,86,56,12
+986880185,05-Oct-21,88,38,Rajnigandha,,apartments,,,Ward 61, Evershine Green,maheshwari chowk,68,51,17,80
+986880185,05-Oct-21,40,8,random_58,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,297,266,31,88
+986880185,05-Oct-21,93,44,random_59,,yes,,,Ward 61,Walawalkar2,Walawalkar,123,42,81,64
+986880185,05-Oct-21,93,5,random_60,,apartments,,,Ward 61,Milliennium Court,maheshwari chowk,97,38,59,94
+986880185,05-Oct-21,50,35,Kaveri,,apartments,,,Ward 61,MEGA MALL 2,unknown_3,61,35,26,7
+986880185,05-Oct-21,99,17,random_61,,apartments,,,Ward 61,Milliennium Court,maheshwari chowk,177,148,29,58
+986880185,05-Oct-21,42,31,random_62,,yes,,,Ward 61,Techweb centre,Tarapore Garden,412,259,153,54
+986880185,05-Oct-21,46,6,Tarapore Towers,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,318,216,102,5
+986880185,05-Oct-21,73,39,random_63,,apartments,,,Ward 61,Milliennium Court,maheshwari chowk,169,5,164,1
+986880185,05-Oct-21,73,29,random_64,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,435,214,221,14
+986880185,05-Oct-21,74,31,random_65,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,329,0,329,95
+986880185,05-Oct-21,15,3,random_66,,yes,,,Ward 61,GREEN PARK,Heera Panna,198,153,45,56
+986880185,05-Oct-21,8,23,random_67,,yes,,,Ward 61,GREEN PARK,Heera Panna,85,19,66,45
+986880185,05-Oct-21,49,8,random_68,,yes,,,Ward 61,ANAND NAGAR1,ANAND NAGAR,371,178,193,51
+986880185,05-Oct-21,11,43,random_69,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,238,166,72,63
+986880185,05-Oct-21,37,34,random_70,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,266,143,123,44
+986880185,05-Oct-21,49,46,random_71,,yes,,,Ward 61,GREEN PARK,Heera Panna,272,212,60,8
+986880185,05-Oct-21,98,30,random_72,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,152,36,116,86
+986880185,05-Oct-21,43,10,random_73,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,499,165,334,91
+986880185,05-Oct-21,92,35,random_74,,yes,,,Ward 61,GREEN PARK,Heera Panna,259,234,25,48
+986880185,05-Oct-21,70,14,random_75,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,389,136,253,81
+986880185,05-Oct-21,74,21,random_76,,yes,,,Ward 61,GREEN PARK,Heera Panna,138,123,15,62
+986880185,05-Oct-21,41,17,random_77,,yes,,,Ward 61,ANAND NAGAR1,ANAND NAGAR,436,353,83,64
+986880185,05-Oct-21,70,9,random_78,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,427,270,157,84
+986880185,05-Oct-21,55,17,random_79,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,382,207,175,6
+986880185,05-Oct-21,98,19,random_80,,yes,,,Ward 61,unk11,unknown_1,138,8,130,0
+986880185,05-Oct-21,55,29,random_81,,yes,,,Ward 61,unk11,unknown_1,463,3,460,5
+986880185,05-Oct-21,23,31,random_82,,apartments,,,Ward 61,unk11,unknown_1,263,170,93,28
+986880185,05-Oct-21,91,34,Shantivan Bldg no. 4-7,Off New Link Road,residential,,,Ward 61,Walawalkar2,Walawalkar,299,243,56,75
+986880185,05-Oct-21,27,2,random_83,,yes,,,Ward 61,unk11,unknown_1,285,77,208,87
+986880185,05-Oct-21,98,23,random_84,,yes,,,Ward 61,unk22,unknown_2,124,31,93,96
+986880185,05-Oct-21,70,15,random_85,,yes,,,Ward 61,unk22,unknown_2,163,58,105,2
+986880185,05-Oct-21,68,30,random_86,,yes,,,Ward 61,BMC1,BMC colony,55,20,35,62
+986880185,05-Oct-21,63,14,random_87,,yes,,,Ward 61,unk2,unknown_2,131,111,20,24
+986880185,05-Oct-21,86,22,random_88,,yes,,,Ward 61,unk11,unknown_1,110,33,77,2
+986880185,05-Oct-21,95,40,random_89,,yes,,,Ward 61,unk22,unknown_2,267,24,243,70
+986880185,05-Oct-21,14,18,random_90,,yes,,,Ward 61,unk22,unknown_2,211,80,131,88
+986880185,05-Oct-21,69,45,random_91,,yes,,,Ward 61,unk22,unknown_2,284,103,181,75
+986880185,05-Oct-21,82,7,random_92,,yes,,,Ward 61,BMC1,BMC colony,33,6,27,91
+986880185,05-Oct-21,77,46,random_93,,yes,,,Ward 61,unk2,unknown_2,25,16,9,6
+986880185,05-Oct-21,83,27,random_94,,yes,,,Ward 61,unk22,unknown_2,323,108,215,33
+986880185,05-Oct-21,90,5,random_95,,yes,,,Ward 61,JBCN SCHOOL LANE2,Serenity,30,10,20,41
+986880185,05-Oct-21,72,10,random_96,,yes,,,Ward 61,JBCN SCHOOL LANE2,Serenity,139,55,84,12
+986880185,05-Oct-21,90,49,random_97,,yes,,,Ward 61,ANAND NAGAR2,ANAND NAGAR,406,56,350,86
+986880185,05-Oct-21,38,28,Shantivan Bldg no. 1-3,Off New Link Road,apartments,,,Ward 61,Walawalkar2,Walawalkar,425,200,225,53
+986880185,05-Oct-21,71,3,random_98,,yes,,,Ward 61,ANAND NAGAR1,ANAND NAGAR,169,13,156,57
+986880185,05-Oct-21,94,0,random_99,,yes,,,Ward 61,Walawalkar1,Walawalkar,493,83,410,34
+986880185,05-Oct-21,63,0,random_100,,apartments,,,Ward 61,unk2,unknown_2,403,191,212,27
+986880185,05-Oct-21,100,44,random_101,,yes,,,Ward 61,unk2,unknown_2,410,290,120,34
+986880185,05-Oct-21,88,20,random_102,,yes,,,Ward 61,Behram Baug,Behram Baug,161,62,99,62
+986880185,05-Oct-21,59,39,random_103,,yes,,,Ward 61,unk11,unknown_1,290,108,182,54
+986880185,05-Oct-21,23,16,random_104,,apartments,,,Ward 61,unk11,unknown_1,273,259,14,35
+986880185,05-Oct-21,37,11,random_105,,yes,,,Ward 61,unk22,unknown_2,432,336,96,0
+986880185,05-Oct-21,18,42,random_106,,yes,,,Ward 61,unk2,unknown_2,486,76,410,61
+986880185,05-Oct-21,33,50,random_107,,yes,,,Ward 61,unk2,unknown_2,174,133,41,68
+986880185,05-Oct-21,90,42,Tarapore Towers,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,311,198,113,49
+986880185,05-Oct-21,25,4,Tarapore Towers,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,39,11,28,51
+986880185,05-Oct-21,10,40,Tarapore Towers,,apartments,,,Ward 61,Daimond /Pearl,Tarapore Towers,433,255,178,98
+986880185,05-Oct-21,31,7,random_108,,yes,,,Ward 61,unk11,unknown_1,37,20,17,10
+986880185,05-Oct-21,97,10,random_109,,yes,,,Ward 61,unk11,unknown_1,305,12,293,47
+986880185,05-Oct-21,19,21,random_110,,apartments,,,Ward 61,unk11,unknown_1,3,3,0,33
+986880185,05-Oct-21,49,27,random_111,,yes,,,Ward 61,ANAND NAGAR1,ANAND NAGAR,92,22,70,27
+986880185,05-Oct-21,31,45,random_112,,apartments,,,Ward 61,unk11,unknown_1,65,40,25,35
+986880185,05-Oct-21,21,46,random_113,,yes,,,Ward 61,Behram Baug,Behram Baug,255,2,253,38
+986880185,05-Oct-21,20,8,random_114,,yes,,,Ward 61,unk11,unknown_1,428,355,73,96
+986880185,05-Oct-21,3,32,random_115,,yes,,,Ward 61,Behram Baug,Behram Baug,83,52,31,58
+986880185,05-Oct-21,2,28,Oshiwara Police Station,,yes,,,Ward 61,GREEN PARK,Heera Panna,58,15,43,27
+986880185,05-Oct-21,88,17,City International School,,school,,,Ward 61,JBCN SCHOOL LANE1,Serenity,134,15,119,89
+986880185,05-Oct-21,71,38,Reliable Business Centre,,commercial,,,Ward 61,JBCN SCHOOL LANE1,Serenity,253,89,164,25
+986880185,05-Oct-21,81,47,random_116,,apartments,,,Ward 61,unk2,unknown_2,460,280,180,76

@@ -8,6 +8,7 @@ import plotly.graph_objects as go
 import plotly.express as px
 from dash import Dash, dcc, html, Input, Output
 import dash_bootstrap_components as dbc
+from dateutil import parser
 
 app = Dash(__name__)
 server=app.server
@@ -41,6 +42,7 @@ l = []
 rad_graph=[]
 for i in range(2,len(col)):
     rad_graph.append(col[i])
+print(rad_graph,"rad")
 # handling null values in geojson
 # i = 0
 # for feature in ward_61['features']:
@@ -151,6 +153,7 @@ layout.append(dcc.Tab(label='GRAPH',children=[dbc.Row(dbc.Col([
             html.H5("Select Date Range"),
             dcc.DatePickerRange(
                 id='my-date-picker-range',
+              
                 min_date_allowed=min_d,
                 max_date_allowed=max_d,
                 initial_visible_month=min_d,
@@ -387,28 +390,70 @@ def draw_graph(col,val,wt,sd,ed):
 
     dft['coll_date'] = pd.to_datetime(dft['coll_date'])
     dft['col_date']=dft['coll_date']
+    # print(dft['col_date'])
    # dft = dft[dft['coll_date'].loc[2021-10-1:2021-10-31]]
     #dft['coll_date'] = pd.to_datetime(df['coll_date'])
    # dft = dft.set_index('col_date')
     v=str(val)
     date=[]
 
-    print(sd)
-    print(ed)
-
+    # start = sd.split("T")[0]
+    # day= sd.split("-")[2]
+    # day1 = day.split("T")[0]
+    # month = sd.split("-")[1]
+    # year = sd.split("-")[0]
+    # # start_new = datetime.strptime(start,"%y-%m-%d")
+    # date_time = datetime.date(int(year), int(month), int(day1))
+    # print(type(date_time),date_time)
+    # # print(type(start_new))
+    # end = ed.split("T")[0]
+    # day_ed= ed.split("-")[2]
+    # day_ed1 = day_ed.split("T")[0]
+    # month1 = ed.split("-")[1]
+    # year1 = ed.split("-")[0]
+    # # start_new = datetime.strptime(start,"%y-%m-%d")
+    # date_time1 = datetime.date(int(year1), int(month1), int(day_ed1))
     dft = dft.groupby([v.lower(),'coll_date'], as_index=False)[wt].sum()
     dft = dft[dft[v.lower()].isin(col)]
     # dft = dft[dft['coll_date'].isin(date)]
-    #dft = dft.loc[sd:ed]
+    # dft = dft.loc[date_time:date_time1]
     #dft = dft.set_index('coll_date')
     print(dft)
     waste=str(wt).upper()
     fig = px.line(dft,
                   x="coll_date", y=wt, color=v.lower())
     fig.update_layout(yaxis={'title': waste},
-                      xaxis={'title': 'COLLECTION DATE'},
+                      xaxis=
+                      dict(
+        rangeselector=dict(
+            buttons=list([
+                dict(count=1,
+                     label="1m",
+                     step="month",
+                     stepmode="backward"),
+                dict(count=6,
+                     label="6m",
+                     step="month",
+                     stepmode="backward"),
+                dict(count=1,
+                     label="YTD",
+                     step="year",
+                     stepmode="todate"),
+                dict(count=1,
+                     label="1y",
+                     step="year",
+                     stepmode="backward"),
+                dict(step="all")
+            ])
+        ),
+        rangeslider=dict(
+            visible=True
+        ),
+        type="date",title= 'COLLECTION DATE',
+    ),
                       title={'text': waste+" COLLECTION",
-                             'font': {'size': 20}, 'x': 0.5, 'xanchor': 'center'}
+                             'font': {'size': 20}, 'x': 0.5, 'xanchor': 'center'},
+                        
 )
     return fig
 
