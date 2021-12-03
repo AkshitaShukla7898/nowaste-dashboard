@@ -176,15 +176,18 @@ layout.append(dcc.Tab(label='GRAPH', children=[dbc.Row(dbc.Col([
 
         ], body=True, color="light")
         ], width={'size': 4, 'offset': 0}, xs=10, sm=10, md=10, lg=4, xl=4, ),
-        dbc.Col([dbc.Card(
-            dcc.Graph(id="line-chart"), body=True, color="light")],
+        dbc.Col([dbc.Row([
+            dbc.Card(dcc.Graph(id="line-chart"), body=True, color="light"),
+            html.Br(),
+            dbc.Card(dcc.Graph(id="pie-chart"), body=True, color="dark")
+        ])],
             width={'size': 8, 'offset': 0}, xs=10, sm=10, md=10, lg=8, xl=8, )
     ]),
-    dbc.Row([html.Br(),
-             dbc.Col([dbc.Card(dcc.Graph(id="pie-chart"), body=True, color="dark")], width={'size': 8, 'offset': 4}),
-
-             # dbc.Col([dbc.Card(dcc.Graph(id="piechart"),body=True, color="dark" )],width={'size': 6, 'offset': 0},xs=10, sm=10, md=6, lg=6, xl=6)
-             ])
+    # dbc.Row([html.Br(),
+    #          dbc.Col([dbc.Card(dcc.Graph(id="pie-chart"), body=True, color="dark")], width={'size': 8, 'offset': 4}),
+    #
+    #          # dbc.Col([dbc.Card(dcc.Graph(id="piechart"),body=True, color="dark" )],width={'size': 6, 'offset': 0},xs=10, sm=10, md=6, lg=6, xl=6)
+    #          ])
 ]))
 
 # input list for app callback
